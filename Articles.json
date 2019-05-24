@@ -1,0 +1,539 @@
+{
+    "version" : 1.0,
+    "articles" : [
+        {
+            "title"       : "Choosing Among Treatments? Know the Difference",
+            "abstract"    : "In 1786, Caleb Perry, an English doctor, was trying to figure out what made the most effective laxative — an expensive Turkish rhubarb or the more affordable English varieties.",
+            "imageNames"  : ["n1app"],
+            "imageIsLight": 1,
+            "date"        : "MAR 8, 2019",
+            "url"         : "https://www.resilienceproject.com/doug-whitney",
+            "storyType"   : "Learn",
+            "moreTitle"   : "Read More",
+            "sections"    : [
+                {
+                    "text"               : "In 1786, Caleb Perry, an English doctor, was trying to figure out what made the most effective laxative — an expensive Turkish rhubarb or the more affordable English varieties. Perry designed a clever experiment in which 13 patients would try each type of rhubarb multiple times.  He reasoned that testing each variety once per person wouldn’t yield enough information to accurately discern the differences, because daily variation in the patient’s diet might influence the results. But averaging the outcomes over several test runs would reduce the influence of these potentially confounding variables.\n\nIn the end, Perry found no benefit to the costly Turkish rhubarb, saving his patients some expense. He had also set the stage for a new approach to testing treatments. He had designed the first known N-of-1 trial, a type of study in which people compare different interventions to see which option works best for them.\n\nMost of us are regularly faced with questions similar to Perry’s. Will melatonin really improve my sleep? Does mindfulness mediation ease stress? Given the variability in mood, diet, work and activity levels that characterizes everyday life, making solid conclusions about what treatments work can be challenging. Someone trying melatonin for sleep might conclude it doesn’t help if she tried it during a stressful period at work. Or perhaps her sleep patterns vary so much night-to-night that no obvious pattern emerges.\n\n Over the last several decades, scientists have refined the basic ideas in Perry rhubarb experiment in order to develop more sophisticated methods for comparing the effectiveness of treatments in a single person. More recently, the advent of smartphones and wearable devices have made these experiments both easier and more precise by providing reams of data on our sleep, exercise, and other factors.\n\nNow researchers at the Health Data and Design Innovation Center at the Icahn School of Medicine at Mount Sinai have developed a new app to help people carry out N-of-1 trials in a statistically rigorous way so people are able to  figure out what treatment works best for them, which might be different from what works best for someone else.\n\nThe first study is focused on cognition and helping people figure out the mind-altering impacts of their morning coffee. Does coffee really improve your cognitive function? And what happens when you add to your coffee drinking routine a supplement that some people claim has cognitive enhancing properties?",
+                    "showTopRule"       : 1,
+                    "embeddedTextLinks"  : [
+                        {
+                            "linkText": "Health Data and Design Innovation Center",
+                            "linkUrlString": "http://www.hd2i.org"
+                        }
+                    ]
+                },
+                
+                
+                
+                {
+                    "title"              : "Learn more about the cognition Nof1 trial",
+                    "titleAlignment"     : 1,
+                    "buttonTitle"        : "Join the study",
+                    "actionType"         : "app",
+                    "actionValue"        : "http://itunes.apple.com/us/app/apple-store/id1308612958?mt=8",
+                    "showTopRule"        : 1
+                },
+                {
+                    "text"               : "“For the first time, we are putting the tools of clinical research directly into the hands of patients. We hope this inspires people to stay engaged with their healthcare, and find out what works best for them”, says Noah Zimmerman, PhD, principal investigator of the N1 Project.",
+                    "showTopRule"        : 1
+                },
+                {
+                    "type"              : "references",
+                    "title"             : "References",
+                    "titleAlignment"    : 0,
+                    "text"              : "http://www.jameslindlibrary.org/articles/history-development-n-1-trials/",
+                    "showTopRule"       : 1,
+                    "embeddedTextLinks" : [
+                        {
+                            "linkText": "http://www.jameslindlibrary.org/articles/history-development-n-1-trials/",
+                            "linkUrlString": "http://www.jameslindlibrary.org/articles/history-development-n-1-trials/"
+                        }
+                    ]
+                },
+                {
+                    "type"              : "photoCredit",
+                    "title"             : "Photo Credit",
+                    "titleAlignment"    : 0,
+                    "text"              : "Indicius",
+                }
+            ]
+        },
+                  
+                  {
+                  "title"       : "Whitney Escapes Family Illness",
+                  "abstract"    : "Doug Whitney has escaped a terrible form of Alzheimer’s disease that has affected more than a dozen of his family members.",
+                  "imageNames"   : ["whitney"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/doug-whitney",
+                  "storyType"   : "Resilience Story",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "imageNames"         : ["whitney2"],
+                                   "imageText"          : "Doug Whitney",
+                                   "text"               : "Doug Whitney has a terrible family legacy. Many of his relatives carry a gene mutation that causes early-onset Alzheimer’s disease, a severe form of Alzheimer’s that strikes in one’s forties and fifties. The disease has wreaked havoc on his family, killing his mother, older brother and more than a dozen of his aunts, uncles and cousins.",
+                                   "embeddedTextLinks"  : [
+                                                           {
+                                                           "linkText": "The disease has wreaked havoc on his family",
+                                                           "linkUrlString": "http://www.nytimes.com/2012/06/10/magazine/an-alzheimers-gene-one-familys-saga.html"
+                                                           }
+                                                           ]
+                                   },
+                                   {
+                                   "text"               : "Whitney had no symptoms well into his 60s, long past the age at which his affected family members had begun to succumb to the disease. He and his wife concluded with relief that he was free of the family scourge. Unfortunately, a genetic test in 2011 revealed that Whitney had indeed inherited the disease-linked mutation.\n\nBy all expectations, Whitney should have also been struck by early-onset Alzheimer’s. But extensive memory testing and other clinical evaluations revealed none of the impairments typically associated with the disease.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "title"              : "Do you think you’re resilient to a disease that runs in your family?",
+                                   "titleAlignment"     : 0,
+                                   "buttonTitle"        : "Take a Survey",
+                                   "actionType"         : "survey",
+                                   "actionValue"        : "Hereditary Diseases Questionnaire",
+                                   "showTopRule"        : 1
+                                   },
+                                   {
+                                   "text"               : "Scientists are now trying to find the source of Whitney’s powerful protection. How did he escape the fate that befell most of his clan? One theory is that Whitney carries a second genetic mutation that dampens or even erases the effects of the disease-causing variant.\n\nScientists hope that finding the source of Whitney’s natural resilience will inspire new ways to slow or prevent Alzheimer’s disease, which has been notoriously difficult to treat. Many trials of new drugs that initially looked promising ultimately failed. Whitney’s case, however, suggests there is a way around the disease. He is living proof that it is possible to escape.",
+                                   "showTopRule"        : 1
+                                   },
+                                   {
+                                   "title"              : "Follow us on Facebook.",
+                                   "buttonTitle"        : "Follow us",
+                                   "actionType"         : "link",
+                                   "actionValue"        : "https://www.facebook.com/ResilienceConnect/",
+                                   "showTopRule"        : 1
+                                   },
+                                   {
+                                   "text"   : "The kind of Alzheimer’s Whitney’s family members have had makes up a minority of Alzheimer’s cases. Scientists estimate that inherited forms of the disease, known as early-onset familial Alzheimer’s, account for 1 to 5 percent of the condition. Many of these cases are caused by mutations in three known genes, APP, PSEN1 and PSEN2. Studying these families — particularly whether early treatment can prevent or delay the disease — may provide clues for treating more common forms of Alzheimer’s.\n\nWhitney’s case highlights how studying healthy people who are resistant to harmful genetic mutations might lead to important, new insights about disease and how to stop it.",
+                                   "showTopRule"    : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Bird TD. Early-Onset Familial Alzheimer Disease. GeneReviews. Last revision: October 18, 2012.\n\nStrobel G. Early Onset Familial AD. Alzforum.org.\n\nGina Kolata. In a New Approach to Fighting Disease, Helpful Genetic Mutations Are Sought. New York Times, December 28, 2014.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Early-Onset Familial Alzheimer Disease. GeneReviews. Last revision",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/books/NBK1236/"
+                                                          },
+                                                          {
+                                                          "linkText": "Early Onset Familial AD. Alzforum.org",
+                                                          "linkUrlString": "https://www.alzforum.org/early-onset-familial-ad/overview/what-early-onset-familial-alzheimer-disease-efad"
+                                                          },
+                                                          {
+                                                          "linkText": "In a New Approach to Fighting Disease, Helpful Genetic Mutations Are Sought",
+                                                          "linkUrlString": "https://www.nytimes.com/2014/12/29/health/in-a-new-approach-to-fighting-disease-helpful-genetic-mutations-are-sought.html"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "MATTHEW RYAN WILLIAMS/The New York Times/Redux\n\nHeading Illustration-  Deniz Ayaz",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Deniz Ayaz",
+                                                          "linkUrlString": "https://denizayaz.com/"
+                                                          }
+                                                          ]
+                                   }
+                                   ]
+                  },
+                  {
+                  "title"       : "Stephen Crohn escaped HIV",
+                  "abstract"    : "Stephen Crohn became known as “the man who couldn’t get AIDS” because of his body’s natural ability to resist HIV infection.",
+                  "imageNames"   : ["crohn"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/stephen-crohn",
+                  "storyType"   : "Resilience Story",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "By all expectations, Stephen Crohn should have gotten HIV. In the 1970s and 80s, Crohn watched many of his friends get sick and die of the newly emerging disease. But despite being as sexually active as they were, Crohn never got the infection.",
+                                   },
+                                   {
+                                   "title"             : "Do you think you might be resistant to an infectious disease?",
+                                   "titleAlignment"    : 0,
+                                   "buttonTitle"       : "Take a Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Infectious Diseases Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "imageNames"        : ["crohn2"],
+                                   "imageText"         : "Stephen Crohn",
+                                   "imageTextTheme"    : "dark",
+                                   "text"              : "He began reaching out to scientists, searching for someone to decipher his enviable resistance to HIV. In the 1990s, immunologist Bill Paxton discovered the source of Crohn’s protection — a gene mutation that prevented the virus from infiltrating Crohn’s white blood cells.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Scientists now know that Crohn’s resistance is not unique. About 1 percent of Caucasians have the same mutations.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "buttonTitle"       : "Join the Newsletter",
+                                   "actionType"        : "link",
+                                   "actionValue"       : "https://www.resilienceproject.com/joinnewsletter/",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "The discovery of Crohn’s protective mutation has inspired new approaches for fighting HIV. Scientists developed a drug, maraviroc, that mimics its mode of action, preventing the spread of the virus in people who are already infected.\n\nIn 2008, a Berlin physician recalled Crohn’s case when treating an HIV-positive patient with leukemia who needed a stem cell transplant. He hypothesized that a transplant from someone with two copies of the HIV-resistant mutation could confer that protection, simultaneously treating cancer and HIV.\n\nThe gamble worked — the patient, Timothy Ray Brown, became the first person to be considered cured of HIV. A decade later, he is still free of cancer and HIV.\n\nUnfortunately, stem cell transplants can have severe side effects and are an unsuitable treatment for most people with HIV.  But other researchers are developing gene therapies that mimic Crohn’s natural resistance, which may provide a more broadly applicable cure for the disease.\n\nCrohn’s case shows how finding people who are resistant to an infectious disease — those who are exposed to a disease-causing virus or bacterium but don’t show typical signs and symptoms — can lead to new discoveries and sometimes even trigger the development of new treatments.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Paxton WA, Martin SR, Tse D, et al. Relative resistance to HIV–1 infection of CD4 lymphocytes from persons who remain uninfected despite multiple high–risk sexual exposures. Nat Med. 1996;2(4):412-417. doi:10.1038/nm0496-412\n\nAllers K, Hutter G, Hofmann J, et al. Evidence for the cure of HIV infection by CCR5 32/ 32 stem cell transplantation. Blood. 2011;117(10):2791-2799. doi:10.1182/blood-2010-09-309591.\n\nKuritzkes DR. Hematopoietic stem cell transplantation for HIV cure. J Clin. Invest. 2016;126(2):432-437.\n\nMary Engel, Doctor who cured ‘Berlin patient’ of HIV: ‘We knew we were doing something very special.’ Hutch News, Feb 27, 2015.\n\nMary Engel, Timothy Ray Brown: The accidental AIDS icon. Hutch News, Feb 20, 2015.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Relative resistance to HIV–1 infection of CD4 lymphocytes from persons who remain uninfected despite multiple high–risk sexual exposures",
+                                                          "linkUrlString": "https://www.nature.com/articles/nm0496-412"
+                                                          },
+                                                          {
+                                                          "linkText": "Evidence for the cure of HIV infection by CCR5 32/ 32 stem cell transplantation. Blood",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/21148083"
+                                                          },
+                                                          {
+                                                          "linkText": "Hematopoietic stem cell transplantation for HIV cure",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731181/"
+                                                          },
+                                                          {
+                                                          "linkText": "We knew we were doing something very special",
+                                                          "linkUrlString": "https://www.fredhutch.org/en/news/center-news/2015/02/timothy-ray-brown-doctor-who-cured-him.html"
+                                                          },
+                                                          {
+                                                          "linkText": "The accidental AIDS icon. Hutch News",
+                                                          "linkUrlString": "https://www.fredhutch.org/en/news/center-news/2015/02/aids-icon-timothy-ray-brown.html"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Stephen Crohn Photo- Dion Ogust\n\nHeading Illustration- Sadi Tekin",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Sadi Tekin",
+                                                          "linkUrlString": "https://dribbble.com/saditekin"
+                                                          }
+                                                          ]
+                                   }
+                                  ]
+                  },
+                 {
+                  "title"       : "A surprising blood test result for Anna Feurer triggers an important discovery",
+                  "abstract"    : "Anna Feurer has a genetic mutation that gives her extremely low trigylceride levels and protects her from heart disease.",
+                  "imageNames"   : ["feurer"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/anna-feurer",
+                  "storyType"   : "Resilience Story",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "Anna Feurer was at a company health fair when she got the first hints of her genetic superpower. She learned that she had extremely low levels of triglycerides, a fat molecule in the bloodstream linked to an increased risk of heart disease.",
+                                   },
+                                   {
+                                   "title"             : "Are you a positive outlier?",
+                                   "buttonTitle"       : "Take a Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Positive Outliers Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "In 2009, doctors discovered why Feurer had such low triglyceride levels. She carried mutations in both copies of a gene called ANGPTL3, which helps regulate triglyceride metabolism. Two of Feurer’s siblings with extremely low levels also lacked functioning copies of the gene.\n\nMoreover, the mutation seemed to protect Feurer and her siblings from heart disease. Scans of their arteries revealed that the lucky three had no plaque, a fatty buildup in the arteries that can lead to heart attack and stroke.\n\nThe mutation’s protective effect seemed to surmount even well-known risk factors for heart disease — one of her siblings was a heavy smoker with diabetes who nonetheless lacked plaque.\n\nIt turns out that Feurer isn’t alone. Mutations in ANGPTL3 occur in roughly 1 in 300 people. This group has a 30 percent reduced risk of heart attack compared with those with two functioning copies.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "discoveryTimeline",
+                                   "title"             : "Discovery Timeline",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "imageNames"        : ["feurer2"],
+                                   "imageText"         : "Anna Feurer",
+                                   "text"              : "The discovery has inspired new ways to treat and prevent heart disease. Pharmaceutical companies are already developing drugs that mimic the effect of Feurer’s mutation. Indeed, preliminary studies of one such drug, called evinacumab, shows it can reduce triglycerides in people with very high levels.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Feurer’s case demonstrates how people with unusual biomarkers — in this case very low triglycerides — can motivate new approaches to therapy development. Finding more “positive outliers” like Feurer and connecting them to the research community may help unlock new discoveries about how the human body works.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Romeo S, Yin W, Kozlitina J, et al. Rare loss-of-function mutations in ANGPTL family members contribute to plasma triglyceride levels in humans. J Clin. Invest. 2009;119(1):70-79.\n\nMusunuru K, Pirruccello JP et al. Exome sequencing, ANGPTL3 mutations, and familial combined hypolipidemia. N. Engl. J Med. 2010;363(23):2220-2227.\n\nGina Kolata. Rare Gene Mutations Inspire New Heart Drugs. New York Times, May 24, 2017.\n\nStitziel NO, Khera AV, Wang X, et al. ANGPTL3 deficiency and protection against coronary artery disease. J Am. Coll. Cardiol. 2017;69(16):2054-2063.\n\nDewey FE, Gusarova V, Dunbar RL, et al. Genetic and Pharmacologic Inactivation of ANGPTL3 and Cardiovascular Disease. N. Engl. J Med. 2017;377(3):211-221.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Rare loss-of-function mutations in ANGPTL family members contribute to plasma triglyceride levels in humans. J Clin. Invest",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/?term=Rare+loss-of-function+mutations+in+ANGPTL+family+members+contribute+to+plasma+triglyceride+levels+in+humans"
+                                                          },
+                                                          {
+                                                          "linkText": "ANGPTL3 mutations, and familial combined hypolipidemia",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/20942659"
+                                                          },
+                                                          {
+                                                          "linkText": "Rare Gene Mutations Inspire New Heart Drugs",
+                                                          "linkUrlString": "https://www.nytimes.com/2017/05/24/health/heart-drugs-gene-mutations.html"
+                                                          },
+                                                          {
+                                                          "linkText": "Khera AV, Wang X, et al. ANGPTL3 deficiency and protection against coronary artery disease",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/28385496"
+                                                          },
+                                                          {
+                                                          "linkText": "Genetic and Pharmacologic Inactivation of ANGPTL3 and Cardiovascular Disease",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/28538136"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "JESS T. DUGAN/The New York Times/Redux\n\nHeading Illustration- Sadi Tekin",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Sadi Tekin",
+                                                          "linkUrlString": "https://dribbble.com/saditekin"
+                                                          }
+                                                          ]
+                                   },
+                                  ]
+                  },
+                  {
+                  "title"       : "ResilienceBot",
+                  "abstract"    : "We are creating algorithms to search through millions of health records for clues about resilience.",
+                  "imageIsLight": 1,
+                  "imageNames"  : ["robot"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/resilience-bot-1",
+                  "storyType"   : "Contribute",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "ResilienceBot will search for signs of resilience among people who choose to share their health records for research."
+                                   },
+                                   {
+                                   "title"             : "Look for clues in your DNA about resilience.",
+                                   "titleAlignment"    : 0,
+                                   "buttonTitle"       : "Add your DNA",
+                                   "actionType"        : "openHumans",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Most of the exceptional cases of resilience that have been identified so far have relied on a patient or a doctor to notice an unusual set of circumstances. Stephen Crohn, for example, thought for sure he would get AIDS after his partner and many friends died of the disease in the 1980s. But he survived years without signs or symptoms, eventually asking scientists to try to find the source of his resistance. Anna Feurer learned at a company health fair that she had extremely low levels of triglycerides, a protective factor against heart disease. Scientists then studied the rest of her family, ultimately identifying the part of her DNA responsible for the protective effect.\n\nWe want to speed the search for such individuals by developing new algorithms that search electronic medical records for signs of resilience. Algorithms are particularly good at detecting outliers and anomalies — observations that don’t fit the expected pattern. We hope this approach will ultimately identify many more resilient people than we can identify by hand alone.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "imageNames"         : ["ingh_logo"],
+                                   "actionType"        : "link",
+                                   "actionValue"       : "http://www.nextgenhealthcare.org/",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Existing software for analyzing medical data is generally designed to detect potential health issues, flagging someone with high cholesterol or blood pressure, for example. We plan to flip that formula, building algorithms that screen for possible protective factors by looking for people who should get sick but don’t. For example, obese people get diabetes at a rate much higher than people who are thin. But some obese people remain healthy. What is different about those folks?\n\nNew tools that enable people to access and share their medical records are making it easier to participate in this type of research. For example, Apple announced a feature that will allow people to gather their medical records from more than 500 hospitals and clinics on their phone and share those data with the doctors and researchers they choose.\n\nWe are also building algorithms to search genetic data for potential cases of resilience. We can use these algorithms to search, for example, for adults who harbor mutations linked to severe genetic disease and then check whether any of these people lack typical signs and symptoms.\n\nLarge public databases such as ClinVar, which use the latest genetic research and clinical evidence to rank genetic variants according to their potential harmfulness, are making it easier to search for outlier cases. (To determine whether a particular variant is likely to be harmful, researchers look at whether it’s likely to change biological function, whether people with the variant tend to have specific health issues and how often it occurs in the general population. If lots of healthy people have a certain mutation, it’s probably harmless.)\n\nAs more people contribute their medical records, DNA and other personal data to research, efforts like ResilienceBot will be better able to search for cases of resilience — a first step toward identifying new strategies to prevent and treat disease.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Heading Illustration- Sadi Tekin",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Sadi Tekin",
+                                                          "linkUrlString": "https://dribbble.com/saditekin"
+                                                          }
+                                                          ]
+                                   }
+                                 ]
+                  },
+                  {
+                  "title"       : "High cholesterol, healthy arteries",
+                  "abstract"    : "John had extremely high levels of LDL cholesterol all his life, putting him at increased risk for heart attack or stroke. Much to his physicians’ surprise, his arteries were completely clear of any calcified plaques.",
+                  "imageNames"   : ["John"],
+                  "imageIsLight": 1,
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/current-resilient-cases/",
+                  "storyType"   : "Resilient Participant",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "imageNames"   : ["John2"],
+                                   "text"              : "John* came to the Resilience Project after years of medical testing at some of the best medical centers in the United States. He’d had extremely high levels of LDL cholesterol all his life, putting him at increased risk for heart attack or stroke.\n\nJohn had familial hypercholesterolemia, a genetic condition linked to high cholesterol and the buildup of plaque in the arteries. Plaque can eventually block arteries, triggering strokes and heart attacks. People with the condition have a 10-fold greater risk of developing cardiovascular disease than those with normal LDL.",
+                                   },
+                                   {
+                                   "text"              : "Given his high risk for heart disease, John’s doctors gave him a series of tests to gauge the health of his arteries. Much to their surprise, John’s arteries were completely clear of calcified plaques. Over the next 20 years, John’s doctors would perform similar tests five more times, each yielding similar results.",
+                                   },
+                                   {
+                                   "title"             : "Do you have a story like John’s? Tell us more.",
+                                   "buttonTitle"       : "Tell your story",
+                                   "actionType"        : "yourStory",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "John’s results weren’t just unusual for someone with familial hypercholesterolemia. His arteries were much clearer than the arteries of most men of his age — even those with normal LDL levels who had low risk of heart disease.\n\nThese startling results imply that something special is happening with John. His body seems to have blocked the buildup of calcified plaques typically linked to high LDL, buffering the risk of a heart attack.\n\nScientists don’t yet know why John’s arteries are so clear. It may have something to do with his healthy habits — he has never smoked, is not overweight and has normal blood pressure. But given that his arteries look clearer than those of other healthy men, it seems like something more is going. Perhaps he is protected by some genetic factor.\n\nThe Resilience Project team aims to find the secret to his resilience. They are collaborating with John in a research study to try to figure out how his body has accomplished this remarkable feat. The answer may one day help a broad group of people by inspiring the development of new treatments for heart attacks and strokes.\n\n*John is an assumed name used here to protect the participant’s identity.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Wong B. et al. Cardiovascular disease risk associated with familial hypercholesterolemia: A systematic review of the literature. Clinical Therapeutics, 2016; 38(7):1696-1709.\n\nJohnson KW, Dudley JT, Bobe JR. A 72-Year-Old Patient With Longstanding, Untreated Familial Hypercholesterolemia but No Coronary Artery Calcification: A Case Report. Cureus. April 9, 2018;10(4): e2452. doi:10.7759/cureus.2452",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Cardiovascular disease risk associated with familial hypercholesterolemia: A systematic review of the literature",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/27261205"
+                                                          },
+                                                          {
+                                                          "linkText": "A 72-Year-Old Patient With Longstanding, Untreated Familial Hypercholesterolemia but No Coronary Artery Calcification: A Case Report",
+                                                          "linkUrlString": "https://www.cureus.com/articles/11752-a-72-year-old-patient-with-longstanding-untreated-familial-hypercholesterolemia-but-no-coronary-artery-calcification-a-case-report"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Heading Illustration- Karen Ingram\n\nNHLBI, NIH",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Karen Ingram",
+                                                          "linkUrlString": "http://www.kareningram.com/"
+                                                          }
+                                                          ]
+                                   },
+                                   ]
+                  },
+                  {
+                  "title"       : "Searching for resistance to Lyme Disease",
+                  "abstract"    : "More than 300,000 people in the United States become infected with the bacterium that causes Lyme disease each year. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?",
+                  "imageNames"   : ["lyme"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/lyme-disease-1",
+                  "storyType"   : "Learn",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "Lyme disease is a growing scourge in the Northeast and beyond — rates of the tick-borne illness have tripled over the last 25 years. Today, more than 300,000 people in the United States become infected with the bacterium that causes Lyme each year. The rising rates have brought about an avalanche of research into the disease.",
+                                   },
+                                   {
+                                   "title"             : "Lyme Disease Over Time in the United States",
+                                   "imageNames"         : ["map1", "map2", "map3", "map4"],
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on symptoms, exposure to ticks and a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?\n\nBen Luft, an infectious disease specialist at Stony Brook University, in New York, wants to find out. “We’re not getting a full picture of Lyme disease if we only study people who come into the doctor’s office,” he says.\n\nLuft’s team is studying a group of outdoor workers on Lyme-heavy Long Island. Over the course of the spring and summer of 2017, the researchers found that about 15 percent of the group appeared to be infected, meaning a blood test indicated an immune response to the Lyme bacterium.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "title"             : "Do you think you might be resistant to Lyme disease?",
+                                   "buttonTitle"       : "Take Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Lyme Disease Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"             : "Some people in the infected group went on to develop typical Lyme symptoms, but some did not. The researchers are now looking for genetic and other factors that distinguish these two groups. “Once you start to identify what causes some people to be resistant, you can start to develop new strategies to minimize susceptibility,” Luft says.\n\nOther researchers are exploring neighborhood-wide methods to reduce the spread of Lyme and other tick-borne illnesses. The Tick Project, centered in Lyme-heavy Dutchess County, New York, will assess whether two tick control methods deployed in local neighborhoods can reduce local Lyme cases. If successful, this type of approach could help lower the incidence of Lyme at the town or county level.\n\nThe best defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Centers for Disease Control and Prevention. Incidence of Clinician-Diagnosed Lyme Disease, United States, 2005–2010.\n\nCenters for Disease Control and Prevention. Lyme Disease.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Incidence of Clinician-Diagnosed Lyme Disease, United States, 2005–2010",
+                                                          "linkUrlString": "https://wwwnc.cdc.gov/eid/article/21/9/15-0417_article"
+                                                          },
+                                                          {
+                                                          "linkText": "Lyme Disease",
+                                                          "linkUrlString": "https://www.cdc.gov/lyme/index.html"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Headlng Illustration-  Deniz Ayaz\n\nCalifornia Department of Public Health",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Deniz Ayaz",
+                                                          "linkUrlString": "https://denizayaz.com/"
+                                                          }
+                                                          ]
+                                   },
+                                   ]
+                  },
+                  {
+                  "title"       : "Exceptional Responders",
+                  "abstract"    : "Some therapies only work well for a small percentage of people who use them. These “exceptional responders” may be able to provide important new insights about human health that allow us to better match people with the right therapies.",
+                  "imageNames"   : ["responders"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/exceptional-responders",
+                  "storyType"   : "Learn",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "Diet options for losing weight abound. We’ve cut carbohydrates. Quit soda. Gone paleo. The reality, however, is that most diets don’t work well in the long run. And none rises clearly above the others in terms of success.\n\nA 2009 study of more than 800 people randomly assigned to follow one of four different diets found that after two years, most people lost about six to eight pounds. A lucky few, however, had a dramatic weight loss — two to four percent of the group lost 40 pounds or more.\n\nScientists don’t yet know what distinguishes these exceptional responders from the rest. They hope that uncovering why some people are so much more successful than others will aid the development of new treatments for obesity.\n\nThe same pattern is found in other therapies. Similar to diet, some drugs work well for only a small percentage of people who use them. The most striking examples occur in cancer patients, where an experimental therapy might dramatically diminish or eradicate a tumor in one patient but have little or no effect on others with the same cancer.",
+                                   },
+                                   {
+                                   "title"             : "Have you had an exceptional response to a therapy?",
+                                   "buttonTitle"       : "Take Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Exceptional Responders Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Many oncologists have had a few such exceptional cases. But only recently have scientists begun to study these cases systematically, searching for the molecular and genetic changes that render a particular cancer susceptible to the drug. The answer will help scientists find other patients who might respond to that treatment as well.\n\nIn one study, for example, a patient with bladder cancer went into long-term remission after being treated with a drug called everolimus. Researchers identified a genetic mutation in the patient’s cancer cells that seemed to underlie the exceptional response. Other people with the same mutation also responded well to the drug, providing a potential biomarker for who might benefit from this drug.\n\nInspired by that case, the National Cancer Institute launched the Exceptional Responders Initiative. (The study, which is no longer recruiting participants, defined exceptional responders as those who had a complete or long-term response to drugs that help fewer than 10 percent of patients.) Researchers will attempt to find the biological mechanism underlying those patients’ responses, which may help doctors better target treatments.\n\nAs the name implies, exceptional responders are rare. A 2015 study analyzing published reports of exceptional responders to cancer drugs found just 32 cases. Their very uniqueness makes them difficult to study. In cancer, for example, it can be difficult to determine if an individual who fairs well when taking a certain a drug that hasn’t been effective for most people is truly responding to that drug, or if the patient’s cancer is simply slow-growing or generally susceptible to drugs.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Exceptional Responders Initiative",
+                                                          "linkUrlString": "https://www.cancer.gov/about-cancer/treatment/research/exceptional-responders-initiative-qa"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Prasad V and Vandross A Characteristics of Exceptional or Super Responders to Cancer Drugs. Mayo Clin Proc. 2015;90(12):1639-49.\n\nIyer G, Hanrahan AJ et al. Genome sequencing identifies a basis for everolimus sensitivity. Science 2012;338(6104):221.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "A Characteristics of Exceptional or Super Responders to Cancer Drugs",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/26546106"
+                                                          },
+                                                          {
+                                                          "linkText": "Genome sequencing identifies a basis for everolimus sensitivity",
+                                                          "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/22923433"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Headlng Illustration-  Deniz Ayaz",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Deniz Ayaz",
+                                                          "linkUrlString": "https://denizayaz.com/"
+                                                          }
+                                                          ]
+                                   },
+                                   ]
+                  },
+                  ]
+}
+
