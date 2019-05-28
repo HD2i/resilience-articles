@@ -4,7 +4,10 @@ This is the repository for articles for the Resilience iOS app. Adding, updating
 
 When adding a new article, add it to the top and follow the format of previous articles. 
 
-Below are numbered labels to illustrtate what each key-value corresponds to in an article:
+
+<img src="https://github.com/HD2i/resilience-articles/blob/master/exampleImages/ArticleExample1.png" alt="Image1" width="200"/> <img src="https://github.com/HD2i/resilience-articles/blob/master/exampleImages/ArticleExample2.PNG" alt="Image2" width="200"/> <img src="https://github.com/HD2i/resilience-articles/blob/master/exampleImages/ArticleExample3.PNG" alt="Image3" width="200"/> <img src="https://github.com/HD2i/resilience-articles/blob/master/exampleImages/ArticleExample4.PNG" alt="Image4" width="200"/>
+
+Below are numbered labels to illustrate what each key-value corresponds to in an article:
 
 ```
  {
@@ -91,4 +94,3 @@ Below are numbered labels to illustrtate what each key-value corresponds to in a
                                    ]
                   }
 ```
-
