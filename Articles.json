@@ -1,7 +1,7 @@
 {
     "version" : 1.0,
     "articles" : [
-        
+        {
             "title"       : "Choosing Among Treatments? Know the Difference",
             "abstract"    : "In 1786, Caleb Perry, an English doctor, was trying to figure out what made the most effective laxative — an expensive Turkish rhubarb or the more affordable English varieties.",
             "imageNames"  : ["n1app"],
