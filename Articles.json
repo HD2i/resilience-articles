@@ -146,7 +146,7 @@
                     "type"              : "photoCredit",
                     "title"             : "Photo Credit",
                     "titleAlignment"    : 0,
-                    "text"              : "Indicius",
+                    "text"              : "Indicius"
                 }
             ]
         },
@@ -243,7 +243,7 @@
                   "moreTitle"   : "Read More",
                   "sections"    : [
                                    {
-                                   "text"              : "By all expectations, Stephen Crohn should have gotten HIV. In the 1970s and 80s, Crohn watched many of his friends get sick and die of the newly emerging disease. But despite being as sexually active as they were, Crohn never got the infection.",
+                                   "text"              : "By all expectations, Stephen Crohn should have gotten HIV. In the 1970s and 80s, Crohn watched many of his friends get sick and die of the newly emerging disease. But despite being as sexually active as they were, Crohn never got the infection."
                                    },
                                    {
                                    "title"             : "Do you think you might be resistant to an infectious disease?",
@@ -327,7 +327,7 @@
                   "moreTitle"   : "Read More",
                   "sections"    : [
                                    {
-                                   "text"              : "Anna Feurer was at a company health fair when she got the first hints of her genetic superpower. She learned that she had extremely low levels of triglycerides, a fat molecule in the bloodstream linked to an increased risk of heart disease.",
+                                   "text"              : "Anna Feurer was at a company health fair when she got the first hints of her genetic superpower. She learned that she had extremely low levels of triglycerides, a fat molecule in the bloodstream linked to an increased risk of heart disease."
                                    },
                                    {
                                    "title"             : "Are you a positive outlier?",
@@ -395,7 +395,7 @@
                                                           "linkUrlString": "https://dribbble.com/saditekin"
                                                           }
                                                           ]
-                                   },
+                                   }
                                   ]
                   },
                   {
@@ -458,10 +458,10 @@
                   "sections"    : [
                                    {
                                    "imageNames"   : ["John2"],
-                                   "text"              : "John* came to the Resilience Project after years of medical testing at some of the best medical centers in the United States. He’d had extremely high levels of LDL cholesterol all his life, putting him at increased risk for heart attack or stroke.\n\nJohn had familial hypercholesterolemia, a genetic condition linked to high cholesterol and the buildup of plaque in the arteries. Plaque can eventually block arteries, triggering strokes and heart attacks. People with the condition have a 10-fold greater risk of developing cardiovascular disease than those with normal LDL.",
+                                   "text"              : "John* came to the Resilience Project after years of medical testing at some of the best medical centers in the United States. He’d had extremely high levels of LDL cholesterol all his life, putting him at increased risk for heart attack or stroke.\n\nJohn had familial hypercholesterolemia, a genetic condition linked to high cholesterol and the buildup of plaque in the arteries. Plaque can eventually block arteries, triggering strokes and heart attacks. People with the condition have a 10-fold greater risk of developing cardiovascular disease than those with normal LDL."
                                    },
                                    {
-                                   "text"              : "Given his high risk for heart disease, John’s doctors gave him a series of tests to gauge the health of his arteries. Much to their surprise, John’s arteries were completely clear of calcified plaques. Over the next 20 years, John’s doctors would perform similar tests five more times, each yielding similar results.",
+                                   "text"              : "Given his high risk for heart disease, John’s doctors gave him a series of tests to gauge the health of his arteries. Much to their surprise, John’s arteries were completely clear of calcified plaques. Over the next 20 years, John’s doctors would perform similar tests five more times, each yielding similar results."
                                    },
                                    {
                                    "title"             : "Do you have a story like John’s? Tell us more.",
@@ -501,7 +501,7 @@
                                                           "linkUrlString": "http://www.kareningram.com/"
                                                           }
                                                           ]
-                                   },
+                                   }
                                    ]
                   },
                   {
@@ -514,7 +514,7 @@
                   "moreTitle"   : "Read More",
                   "sections"    : [
                                    {
-                                   "text"              : "Lyme disease is a growing scourge in the Northeast and beyond — rates of the tick-borne illness have tripled over the last 25 years. Today, more than 300,000 people in the United States become infected with the bacterium that causes Lyme each year. The rising rates have brought about an avalanche of research into the disease.",
+                                   "text"              : "Lyme disease is a growing scourge in the Northeast and beyond — rates of the tick-borne illness have tripled over the last 25 years. Today, more than 300,000 people in the United States become infected with the bacterium that causes Lyme each year. The rising rates have brought about an avalanche of research into the disease."
                                    },
                                    {
                                    "title"             : "Lyme Disease Over Time in the United States",
@@ -564,7 +564,7 @@
                                                           "linkUrlString": "https://denizayaz.com/"
                                                           }
                                                           ]
-                                   },
+                                   }
                                    ]
                   },
                   {
@@ -577,7 +577,7 @@
                   "moreTitle"   : "Read More",
                   "sections"    : [
                                    {
-                                   "text"              : "Diet options for losing weight abound. We’ve cut carbohydrates. Quit soda. Gone paleo. The reality, however, is that most diets don’t work well in the long run. And none rises clearly above the others in terms of success.\n\nA 2009 study of more than 800 people randomly assigned to follow one of four different diets found that after two years, most people lost about six to eight pounds. A lucky few, however, had a dramatic weight loss — two to four percent of the group lost 40 pounds or more.\n\nScientists don’t yet know what distinguishes these exceptional responders from the rest. They hope that uncovering why some people are so much more successful than others will aid the development of new treatments for obesity.\n\nThe same pattern is found in other therapies. Similar to diet, some drugs work well for only a small percentage of people who use them. The most striking examples occur in cancer patients, where an experimental therapy might dramatically diminish or eradicate a tumor in one patient but have little or no effect on others with the same cancer.",
+                                   "text"              : "Diet options for losing weight abound. We’ve cut carbohydrates. Quit soda. Gone paleo. The reality, however, is that most diets don’t work well in the long run. And none rises clearly above the others in terms of success.\n\nA 2009 study of more than 800 people randomly assigned to follow one of four different diets found that after two years, most people lost about six to eight pounds. A lucky few, however, had a dramatic weight loss — two to four percent of the group lost 40 pounds or more.\n\nScientists don’t yet know what distinguishes these exceptional responders from the rest. They hope that uncovering why some people are so much more successful than others will aid the development of new treatments for obesity.\n\nThe same pattern is found in other therapies. Similar to diet, some drugs work well for only a small percentage of people who use them. The most striking examples occur in cancer patients, where an experimental therapy might dramatically diminish or eradicate a tumor in one patient but have little or no effect on others with the same cancer."
                                    },
                                    {
                                    "title"             : "Have you had an exceptional response to a therapy?",
@@ -624,9 +624,9 @@
                                                           "linkUrlString": "https://denizayaz.com/"
                                                           }
                                                           ]
-                                   },
+                                   }
                                    ]
-                  },
+                  }
                   ]
 }
 
