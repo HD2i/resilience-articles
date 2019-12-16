@@ -1,0 +1,48 @@
+{
+                  "title"       : "ResilienceBot",
+                  "abstract"    : "We are creating algorithms to search through millions of health records for clues about resilience.",
+                  "imageIsLight": 1,
+                  "imageNames"  : ["robot"],
+                  "date"        : "AUG 1, 2018",
+                  "url"         : "https://www.resilienceproject.com/resilience-bot-1",
+                  "storyType"   : "Contribute",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "ResilienceBot will search for signs of resilience among people who choose to share their health records for research."
+                                   },
+                                   {
+                                   "title"             : "Look for clues in your DNA about resilience.",
+                                   "titleAlignment"    : 0,
+                                   "buttonTitle"       : "Add your DNA",
+                                   "actionType"        : "openHumans",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Most of the exceptional cases of resilience that have been identified so far have relied on a patient or a doctor to notice an unusual set of circumstances. Stephen Crohn, for example, thought for sure he would get AIDS after his partner and many friends died of the disease in the 1980s. But he survived years without signs or symptoms, eventually asking scientists to try to find the source of his resistance. Anna Feurer learned at a company health fair that she had extremely low levels of triglycerides, a protective factor against heart disease. Scientists then studied the rest of her family, ultimately identifying the part of her DNA responsible for the protective effect.\n\nWe want to speed the search for such individuals by developing new algorithms that search electronic medical records for signs of resilience. Algorithms are particularly good at detecting outliers and anomalies — observations that don’t fit the expected pattern. We hope this approach will ultimately identify many more resilient people than we can identify by hand alone.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "imageNames"         : ["ingh_logo"],
+                                   "actionType"        : "link",
+                                   "actionValue"       : "http://www.nextgenhealthcare.org/",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"              : "Existing software for analyzing medical data is generally designed to detect potential health issues, flagging someone with high cholesterol or blood pressure, for example. We plan to flip that formula, building algorithms that screen for possible protective factors by looking for people who should get sick but don’t. For example, obese people get diabetes at a rate much higher than people who are thin. But some obese people remain healthy. What is different about those folks?\n\nNew tools that enable people to access and share their medical records are making it easier to participate in this type of research. For example, Apple announced a feature that will allow people to gather their medical records from more than 500 hospitals and clinics on their phone and share those data with the doctors and researchers they choose.\n\nWe are also building algorithms to search genetic data for potential cases of resilience. We can use these algorithms to search, for example, for adults who harbor mutations linked to severe genetic disease and then check whether any of these people lack typical signs and symptoms.\n\nLarge public databases such as ClinVar, which use the latest genetic research and clinical evidence to rank genetic variants according to their potential harmfulness, are making it easier to search for outlier cases. (To determine whether a particular variant is likely to be harmful, researchers look at whether it’s likely to change biological function, whether people with the variant tend to have specific health issues and how often it occurs in the general population. If lots of healthy people have a certain mutation, it’s probably harmless.)\n\nAs more people contribute their medical records, DNA and other personal data to research, efforts like ResilienceBot will be better able to search for cases of resilience — a first step toward identifying new strategies to prevent and treat disease.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "photoCredit",
+                                   "title"             : "Photo Credit",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "Heading Illustration- Sadi Tekin",
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Sadi Tekin",
+                                                          "linkUrlString": "https://dribbble.com/saditekin"
+                                                          }
+                                                          ]
+                                   }
+                                 ]
+                  }
