@@ -48,7 +48,7 @@
                     "text"              : "When you get bitten by a tick do you experience any of the following: \n    •   pain from the bite \n    •   itch \n    •   a bump, similar to a mosquito bite \n    •   irritated skin around the bite ",
                     "buttonTitle"       : "Tell your story",
                     "actionType"        : "survey",
-                    "actionValue"       : "Tick Bite Questionnaire",
+                    "actionValue"       : "Tick Bite Survey",
                     "showTopRule"       : 1
                 },
                 {
