@@ -22,8 +22,7 @@
                 {
                     "imageNames"        : ["tick0"],
                     "imageText"         : "Ticks",
-                    "imageTextTheme"    : "dark",
-                    "text"              : "",
+                    "imageTextTheme"    : "light",
                     "showTopRule"       : 1
                 },
                 {
