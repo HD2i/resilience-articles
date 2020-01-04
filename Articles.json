@@ -1,7 +1,7 @@
 {
     "version" : 1.03,
     "articles" : [
-        
+        {
             "title"       : "Searching for resistance to tick bites",
             "abstract"    : "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
             "imageNames"  : ["tickheader"],
