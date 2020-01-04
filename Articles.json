@@ -1,7 +1,7 @@
 {
     "version" : 1.03,
     "articles" : [
-        {
+        
             "title"       : "Searching for resistance to tick bites",
             "abstract"    : "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
             "imageNames"  : ["tickheader"],
@@ -65,7 +65,7 @@
                     "title"             : "Are you resistant to tick bites? Do you regularly encounter ticks but rarely or never get bitten?",
                     "buttonTitle"       : "Tell your story",
                     "actionType"        : "survey",
-                    "actionValue"       : "Tick Questionnaire2",
+                    "actionValue"       : "Tick Bite Survey",
                     "showTopRule"       : 1
                 },
                 {
@@ -76,7 +76,8 @@
                     "type"              : "references",
                     "title"             : "References",
                     "titleAlignment"    : 0,
-                    "text"              : "Francischetti, I.M.B. et al., 2009. The role of saliva in tick feeding. Frontiers in bioscience , 14, pp.2051–2088. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2785505/\n\nKeesing, F. et al., 2009. Hosts as ecological traps for the vector of Lyme disease. Proceedings. Biological sciences / The Royal Society, 276(1675), pp.3911–3919.\n\nMarques, A. et al., 2014. Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 58(7), pp.937–945.\n\nZhang, S., 2019. What Tick Saliva Does to the Human Body. The Atlantic. Available at: https://www.theatlantic.com/science/archive/2019/07/the-marvels-of-tick-saliva/594652/ [Accessed November 16, 2019].",                    "showTopRule"       : 1,
+                    "text"              : "Francischetti, I.M.B. et al., 2009. The role of saliva in tick feeding. Frontiers in bioscience , 14, pp.2051–2088. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2785505/\n\nKeesing, F. et al., 2009. Hosts as ecological traps for the vector of Lyme disease. Proceedings. Biological sciences / The Royal Society, 276(1675), pp.3911–3919.\n\nMarques, A. et al., 2014. Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 58(7), pp.937–945.\n\nZhang, S., 2019. What Tick Saliva Does to the Human Body. The Atlantic. Available at: https://www.theatlantic.com/science/archive/2019/07/the-marvels-of-tick-saliva/594652/ [Accessed November 16, 2019].",
+                    "showTopRule"       : 1,
                     "embeddedTextLinks" : [
                         {
                             "linkText": "Hosts as ecological traps for the vector of Lyme disease.",
