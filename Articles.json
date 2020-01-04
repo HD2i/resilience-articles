@@ -12,7 +12,18 @@
             "moreTitle"   : "Read More",
             "sections"    : [
                 {
+                    "text"               : "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
+                    "showTopRule"       : 1
+                },
+                {
                     "text"               : "Black-legged ticks, which carry the agent that causes Lyme disease, are stealthy biters.These creepy crawlers can be as tiny as a poppy-seed, and the chemicals in their saliva mask pain from the bite. If they bite your scalp or somewhere else out-of-view, you might never know. Many people that get diagnosed with Lyme disease have no recollection of being bitten by a tick.",
+                    "showTopRule"       : 1
+                },
+                {
+                    "imageNames"        : ["tick0"],
+                    "imageText"         : "Ticks",
+                    "imageTextTheme"    : "dark",
+                    "text"              : "",
                     "showTopRule"       : 1
                 },
                 {
