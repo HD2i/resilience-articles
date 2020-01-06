@@ -1,5 +1,5 @@
 {
-    "version" : 1.09,
+    "version" : 1.10,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -90,7 +90,7 @@
 					"type": "photoCredit",
 					"title": "Photo Credit",
 					"titleAlignment": 0,
-					"text": "Heading Illustration- Sadi Tekin\nGuinea pig image is courtesy of Erol Fikrig and Yale University.",
+					"text": "Heading Illustration- Sadi Tekin\n\nGuinea pig image is courtesy of Erol Fikrig and Yale University.",
 					"embeddedTextLinks": [{
 						"linkText": "Sadi Tekin",
 						"linkUrlString": "https://dribbble.com/saditekin"
