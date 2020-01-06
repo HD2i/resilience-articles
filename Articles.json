@@ -1,5 +1,5 @@
 {
-    "version" : 1.08,
+    "version" : 1.09,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -24,7 +24,7 @@
 				{
 					"title": "Guinea pigs become immune to tick bites",
 					"titleAlignment": 0,
-					"text": "Something strange happens to guinea pigs that are repeatedly bitten by ticks. Over time, they become immune to tick bites -- when an immune animal is bitten, a small red welt, similar to a mosquito bite, immediately appears on the skin. The tick stops biting and falls off before its belly is full. Scientists don’t yet understand exactly why, but guinea pigs seem to produce an immune response that renders them unpalatable to ticks./n/n In the image below, ticks are shown feeding on a tick-immune guinea pig. This small red welt is different from the expanding bullseye rash that appears on some humans usually within a few days of being bitten by an infected tick. Image courtesy of Erol Fikrig and Yale University.",
+					"text": "Something strange happens to guinea pigs that are repeatedly bitten by ticks. Over time, they become immune to tick bites -- when an immune animal is bitten, a small red welt, similar to a mosquito bite, immediately appears on the skin. The tick stops biting and falls off before its belly is full. Scientists don’t yet understand exactly why, but guinea pigs seem to produce an immune response that renders them unpalatable to ticks.\n\nIn the image below, ticks are shown feeding on a tick-immune guinea pig. This small red welt is different from the expanding bullseye rash that appears on some humans usually within a few days of being bitten by an infected tick.",
 					"showTopRule": 0
 				},
 				{
@@ -34,7 +34,7 @@
 					"showTopRule": 0
 				},
 				{
-					"text": "It’s not clear how widespread this phenomenon is--mice, chipmunks and squirrels appear to lack this reaction, providing a continuous feast for resident ticks. But intriguing anecdotal evidence suggests that some people can also become immune to tick bites.\n\n“If you go to Block Island [near Rhode Island] and ask people if they get Lyme disease, you’ll hear people say 'No. Ticks don't bite me anymore,’\" remarked Erol Fikrig, Professor of Immunology at Yale University, at a recent gathering of Lyme disease researchers and patients. \n\nLinden Hu, professor of medicine at Tufts University, thinks he may have experienced some form of tick immunity himself. He became the first participant in a very unique study he designed that uses lab-grown ticks--free of any infectious pathogens--as a novel diagnostic tool to detect bacterial infections in people where conventional methods failed. In his experiment, people get around 30 ticks placed on their skin under a bandage. After 3 to 7 days, the bandage is removed and the number of ticks that have fed are counted and analyzed. In the image below, on the left is the sealed bandage where the ticks are placed underneath for his xenodiagnostic test. On the right, the bandage has been removed to reveal tick bites.",
+					"text": "It’s not clear how widespread this phenomenon is--mice, chipmunks and squirrels appear to lack this reaction, providing a continuous feast for resident ticks. But intriguing anecdotal evidence suggests that some people can also become immune to tick bites.\n\n“If you go to Block Island [near Rhode Island] and ask people if they get Lyme disease, you’ll hear people say 'No. Ticks don't bite me anymore,’\" remarked Erol Fikrig, Professor of Immunology at Yale University, at a recent gathering of Lyme disease researchers and patients.",
 					"showTopRule": 0
 				},
 				{
@@ -42,11 +42,11 @@
 					"buttonTitle": "Tell your story",
 					"actionType": "survey",
 					"actionValue": "Tick Bite Survey",
-					"showTopRule": 0
+					"showTopRule": 1
 				},
 				{
 					"text": "Linden Hu, professor of medicine at Tufts University, thinks he may have experienced some form of tick immunity himself. He became the first participant in a very unique study he designed that uses lab-grown ticks--free of any infectious pathogens--as a novel diagnostic tool to detect bacterial infections in people where conventional methods failed. In his experiment, people get around 30 ticks placed on their skin under a bandage. After 3 to 7 days, the bandage is removed and the number of ticks that have fed are counted and analyzed. In the image below, on the left is the sealed bandage where the ticks are placed underneath for his xenodiagnostic test. On the right, the bandage has been removed to reveal tick bites.",
-					"showTopRule": 0
+					"showTopRule": 1
 				},
 				{
 					"imageNames": ["tick2", "tick3"],
@@ -64,11 +64,11 @@
 					"buttonTitle": "Tell your story",
 					"actionType": "survey",
 					"actionValue": "Tick Bite Survey",
-					"showTopRule": 0
+					"showTopRule": 1
 				},
 				{
 					"text": "So far, nobody has proven that humans can become immune to tick bites. By finding and studying people that have unusual reactions to tick bites or resist tick bites altogether despite frequent exposure, it may be possible to develop novel treatments or vaccines that confer immunity to others. By stopping ticks from feeding on humans, it may be possible to reduce the transmission of some disease-causing pathogens.",
-					"showTopRule": 0
+					"showTopRule": 1
 				},
 				{
 					"type": "references",
@@ -90,7 +90,7 @@
 					"type": "photoCredit",
 					"title": "Photo Credit",
 					"titleAlignment": 0,
-					"text": "Heading Illustration- Sadi Tekin",
+					"text": "Heading Illustration- Sadi Tekin\nGuinea pig image is courtesy of Erol Fikrig and Yale University.",
 					"embeddedTextLinks": [{
 						"linkText": "Sadi Tekin",
 						"linkUrlString": "https://dribbble.com/saditekin"
