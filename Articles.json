@@ -1,109 +1,107 @@
 {
-    "version" : 1.04,
+    "version" : 1.05,
     "articles" : [
         {
-            "title"       : "Searching for resistance to tick bites",
-            "abstract"    : "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
-            "imageNames"  : ["tickheader"],
-            "imageIsLight": 0,
-            "date"        : "MAR 8, 2019",
-            "url"         : "https://www.resilienceproject.com/doug-whitney",
-            "storyType"   : "Learn",
-            "moreTitle"   : "Read More",
-            "sections"    : [
-                {
-                    "text"               : "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
-                    "showTopRule"       : 1
-                },
-                {
-                    "text"               : "Black-legged ticks, which carry the agent that causes Lyme disease, are stealthy biters.These creepy crawlers can be as tiny as a poppy-seed, and the chemicals in their saliva mask pain from the bite. If they bite your scalp or somewhere else out-of-view, you might never know. Many people that get diagnosed with Lyme disease have no recollection of being bitten by a tick.",
-                    "showTopRule"       : 1
-                },
-                {
-                    "imageNames"        : ["tick0"],
-                    "imageText"         : "Ticks",
-                    "imageTextTheme"    : "light",
-                    "showTopRule"       : 1
-                },
-                {
-                    "title"              : "Guinea pigs become immune to tick bites",
-                    "titleAlignment"     : 0,
-                    "text"               : "Something strange happens to guinea pigs that are repeatedly bitten by ticks. Over time, they become immune to tick bites -- when an immune animal is bitten, a small red welt, similar to a mosquito bite, immediately appears on the skin. The tick stops biting and falls off before its belly is full. Scientists don’t yet understand exactly why, but guinea pigs seem to produce an immune response that renders them unpalatable to ticks.",
-                    "showTopRule"       : 1
-                },
-                {
-                    "imageNames"        : ["tick1"],
-                    "imageText"         : "Ticks",
-                    "imageTextTheme"    : "dark",
-                    "text"              : "Image of ticks feeding on a tick-immune guinea pig. This small red welt is different from the expanding bullseye rash that appears on some humans usually within a few days of being bitten by an infected tick. Image courtesy of Erol Fikrig and Yale University.",
-                    "showTopRule"       : 1
-                },
-                {
-                    "text"               : "It’s not clear how widespread this phenomenon is--mice, chipmunks and squirrels appear to lack this reaction, providing a continuous feast for resident ticks. But intriguing anecdotal evidence suggests that some people can also become immune to tick bites.\n\n“If you go to Block Island [near Rhode Island] and ask people if they get Lyme disease, you’ll hear people say 'No. Ticks don't bite me anymore,’\" remarked Erol Fikrig, Professor of Immunology at Yale University, at a recent gathering of Lyme disease researchers and patients. \n\nLinden Hu, professor of medicine at Tufts University, thinks he may have experienced some form of tick immunity himself. He became the first participant in a very unique study he designed that uses lab-grown ticks--free of any infectious pathogens--as a novel diagnostic tool to detect bacterial infections in people where conventional methods failed. In his experiment, people get around 30 ticks placed on their skin under a bandage. After 3 to 7 days, the bandage is removed and the number of ticks that have fed are counted and analyzed.",
-                    "showTopRule"       : 1
-                },
-                {
-                    "imageNames"        : ["tick2", "tick3"],
-                    "imageText"         : "Ticks",
-                    "imageTextTheme"    : "dark",
-                    "text"              : "Image on the left shows the sealed bandage where ticks are placed underneath for his xenodiagnostic test. On the right, the bandage has been removed to reveal tick bites",
-                    "showTopRule"       : 1
-                },
-                {
-                    "text"               : "In prototyping the method, Linden performed this experiment on himself 3 times. By the third time, he got an itchy skin reaction that lasted several months. Is he immune to ticks now? Or sensitive to bites due to his high exposure? Or something else? We don’t know. ",
-                    "showTopRule"       : 1
-                },
-                {
-                    "title"             : "Are you sensitive to tick bites?",
-                    "text"              : "When you get bitten by a tick do you experience any of the following: \n    •   pain from the bite \n    •   itch \n    •   a bump, similar to a mosquito bite \n    •   irritated skin around the bite ",
-                    "buttonTitle"       : "Tell your story",
-                    "actionType"        : "survey",
-                    "actionValue"       : "Tick Bite Survey",
-                    "showTopRule"       : 1
-                },
-                {
-                    "title"             : "Are you resistant to tick bites? Do you regularly encounter ticks but rarely or never get bitten?",
-                    "buttonTitle"       : "Tell your story",
-                    "actionType"        : "survey",
-                    "actionValue"       : "Tick Bite Survey",
-                    "showTopRule"       : 1
-                },
-                {
-                    "text"               : "So far, nobody has proven that humans can become immune to tick bites. By finding and studying people that have unusual reactions to tick bites or resist tick bites altogether despite frequent exposure, it may be possible to develop novel treatments or vaccines that confer immunity to others. By stopping ticks from feeding on humans, it may be possible to reduce the transmission of some disease-causing pathogens.",
-                    "showTopRule"       : 1
-                },
-                {
-                    "type"              : "references",
-                    "title"             : "References",
-                    "titleAlignment"    : 0,
-                    "text"              : "Francischetti, I.M.B. et al., 2009. The role of saliva in tick feeding. Frontiers in bioscience , 14, pp.2051–2088. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2785505/\n\nKeesing, F. et al., 2009. Hosts as ecological traps for the vector of Lyme disease. Proceedings. Biological sciences / The Royal Society, 276(1675), pp.3911–3919.\n\nMarques, A. et al., 2014. Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 58(7), pp.937–945.\n\nZhang, S., 2019. What Tick Saliva Does to the Human Body. The Atlantic. Available at: https://www.theatlantic.com/science/archive/2019/07/the-marvels-of-tick-saliva/594652/ [Accessed November 16, 2019].",
-                    "showTopRule"       : 1,
-                    "embeddedTextLinks" : [
-                        {
-                            "linkText": "Hosts as ecological traps for the vector of Lyme disease.",
-                            "linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/19692412"
-                        },
-                        {
-                            "linkText": "Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study.",
-                            "linkUrlString": "https://academic.oup.com/cid/article/58/7/937/412095"
-                        }
-                    ]
-                },
-                {
-                    "type"              : "photoCredit",
-                    "title"             : "Photo Credit",
-                    "titleAlignment"    : 0,
-                    "text"              : "JESS T. DUGAN/The New York Times/Redux\n\nHeading Illustration- Sadi Tekin",
-                    "embeddedTextLinks" : [
-                        {
-                            "linkText": "Sadi Tekin",
-                            "linkUrlString": "https://dribbble.com/saditekin"
-                        }
-                    ]
-                }
-                
-            ]
-        },
+			"title": "Searching for resistance to tick bites",
+			"abstract": "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
+			"imageNames": ["tickheader"],
+			"imageIsLight": 0,
+			"date": "MAR 8, 2019",
+			"url": "https://www.resilienceproject.com/doug-whitney",
+			"storyType": "Learn",
+			"moreTitle": "Read More",
+			"sections": [{
+					"text": "Some animals develop resistance to tick bites. Can they inspire new approaches to prevent Lyme and other tick borne diseases?",
+					"showTopRule": 0
+				},
+				{
+					"text": "Black-legged ticks, which carry the agent that causes Lyme disease, are stealthy biters.These creepy crawlers can be as tiny as a poppy-seed, and the chemicals in their saliva mask pain from the bite. If they bite your scalp or somewhere else out-of-view, you might never know. Many people that get diagnosed with Lyme disease have no recollection of being bitten by a tick.",
+					"showTopRule": 0
+				},
+				{
+					"imageNames": ["tick0"],
+					"imageText": "Black-legged ticks",
+					"imageTextTheme": "light",
+					"showTopRule": 0
+				},
+				{
+					"title": "Guinea pigs become immune to tick bites",
+					"titleAlignment": 0,
+					"text": "Something strange happens to guinea pigs that are repeatedly bitten by ticks. Over time, they become immune to tick bites -- when an immune animal is bitten, a small red welt, similar to a mosquito bite, immediately appears on the skin. The tick stops biting and falls off before its belly is full. Scientists don’t yet understand exactly why, but guinea pigs seem to produce an immune response that renders them unpalatable to ticks./n/n In the image below, ticks are shown feeding on a tick-immune guinea pig. This small red welt is different from the expanding bullseye rash that appears on some humans usually within a few days of being bitten by an infected tick. Image courtesy of Erol Fikrig and Yale University.",
+					"showTopRule": 0
+				},
+				{
+					"imageNames": ["tick1"],
+					"imageText": "Ticks feeding on a guinea pig.",
+					"imageTextTheme": "dark",
+					"showTopRule": 0
+				},
+				{
+					"text": "It’s not clear how widespread this phenomenon is--mice, chipmunks and squirrels appear to lack this reaction, providing a continuous feast for resident ticks. But intriguing anecdotal evidence suggests that some people can also become immune to tick bites.\n\n“If you go to Block Island [near Rhode Island] and ask people if they get Lyme disease, you’ll hear people say 'No. Ticks don't bite me anymore,’\" remarked Erol Fikrig, Professor of Immunology at Yale University, at a recent gathering of Lyme disease researchers and patients. \n\nLinden Hu, professor of medicine at Tufts University, thinks he may have experienced some form of tick immunity himself. He became the first participant in a very unique study he designed that uses lab-grown ticks--free of any infectious pathogens--as a novel diagnostic tool to detect bacterial infections in people where conventional methods failed. In his experiment, people get around 30 ticks placed on their skin under a bandage. After 3 to 7 days, the bandage is removed and the number of ticks that have fed are counted and analyzed. In the image below, on the left is the sealed bandage where the ticks are placed underneath for his xenodiagnostic test. On the right, the bandage has been removed to reveal tick bites.",
+					"showTopRule": 0
+				},
+				{
+					"title": "Are you resistant to tick bites? Do you regularly encounter ticks but rarely or never get bitten?",
+					"buttonTitle": "Tell your story",
+					"actionType": "survey",
+					"actionValue": "Tick Bite Survey",
+					"showTopRule": 0
+				},
+				{
+					"text": "Linden Hu, professor of medicine at Tufts University, thinks he may have experienced some form of tick immunity himself. He became the first participant in a very unique study he designed that uses lab-grown ticks--free of any infectious pathogens--as a novel diagnostic tool to detect bacterial infections in people where conventional methods failed. In his experiment, people get around 30 ticks placed on their skin under a bandage. After 3 to 7 days, the bandage is removed and the number of ticks that have fed are counted and analyzed. In the image below, on the left is the sealed bandage where the ticks are placed underneath for his xenodiagnostic test. On the right, the bandage has been removed to reveal tick bites.",
+					"showTopRule": 0
+				},
+				{
+					"imageNames": ["tick2", "tick3"],
+					"imageText": "Ticks",
+					"imageTextTheme": "dark",
+					"showTopRule": 0
+				},
+				{
+					"text": "In prototyping the method, Linden performed this experiment on himself 3 times. By the third time, he got an itchy skin reaction that lasted several months. Is he immune to ticks now? Or sensitive to bites due to his high exposure? Or something else? We don’t know. ",
+					"showTopRule": 0
+				},
+				{
+					"title": "Are you sensitive to tick bites?",
+					"text": "When you get bitten by a tick do you experience any of the following: \n    •   pain from the bite \n    •   itch \n    •   a bump, similar to a mosquito bite \n    •   irritated skin around the bite ",
+					"buttonTitle": "Tell your story",
+					"actionType": "survey",
+					"actionValue": "Tick Bite Survey",
+					"showTopRule": 0
+				},
+				{
+					"text": "So far, nobody has proven that humans can become immune to tick bites. By finding and studying people that have unusual reactions to tick bites or resist tick bites altogether despite frequent exposure, it may be possible to develop novel treatments or vaccines that confer immunity to others. By stopping ticks from feeding on humans, it may be possible to reduce the transmission of some disease-causing pathogens.",
+					"showTopRule": 0
+				},
+				{
+					"type": "references",
+					"title": "References",
+					"titleAlignment": 0,
+					"text": "Francischetti, I.M.B. et al., 2009. The role of saliva in tick feeding. Frontiers in bioscience , 14, pp.2051–2088. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2785505/\n\nKeesing, F. et al., 2009. Hosts as ecological traps for the vector of Lyme disease. Proceedings. Biological sciences / The Royal Society, 276(1675), pp.3911–3919.\n\nMarques, A. et al., 2014. Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 58(7), pp.937–945.\n\nZhang, S., 2019. What Tick Saliva Does to the Human Body. The Atlantic. Available at: https://www.theatlantic.com/science/archive/2019/07/the-marvels-of-tick-saliva/594652/ [Accessed November 16, 2019].",
+					"showTopRule": 0,
+					"embeddedTextLinks": [{
+							"linkText": "Hosts as ecological traps for the vector of Lyme disease.",
+							"linkUrlString": "https://www.ncbi.nlm.nih.gov/pubmed/19692412"
+						},
+						{
+							"linkText": "Xenodiagnosis to detect Borrelia burgdorferi infection: a first-in-human study.",
+							"linkUrlString": "https://academic.oup.com/cid/article/58/7/937/412095"
+						}
+					]
+				},
+				{
+					"type": "photoCredit",
+					"title": "Photo Credit",
+					"titleAlignment": 0,
+					"text": "Heading Illustration- Sadi Tekin",
+					"embeddedTextLinks": [{
+						"linkText": "Sadi Tekin",
+						"linkUrlString": "https://dribbble.com/saditekin"
+					}]
+				}
+
+			]
+		},
         {
             "title"       : "Choosing Among Treatments? Know the Difference",
             "abstract"    : "In 1786, Caleb Perry, an English doctor, was trying to figure out what made the most effective laxative — an expensive Turkish rhubarb or the more affordable English varieties.",
