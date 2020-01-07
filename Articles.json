@@ -1,5 +1,5 @@
 {
-    "version" : 1.16,
+    "version" : 1.17,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -123,13 +123,7 @@
                 },
                 {
                     "text"               : "“Through the use of technology, we are able to make these tools available to a much broader audience,” says Jason Bobe, Associate Professor of Genetics and Genomic Sciences at the Icahn School of Medicine at Mount Sinai and Principal Investigator of the Brain Boost Study. “We launched the N1 app with a wellness-related experiment to give users a fun, interesting, and safe way to learn about the n-of-1 approach,” says Mr. Bobe.",
-                    "showTopRule"        : 1,
-		    "embeddedTextLinks"  : [
-			    {
-				"linkText": "N1 app",
-				"linkUrlString": "https://apps.apple.com/us/app/apple-store/id1308612958"
-				}
-			]
+                    "showTopRule"        : 1
                 },
                 {
                     "type"              : "references",
