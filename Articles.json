@@ -1,5 +1,5 @@
 {
-    "version" : 1.12,
+    "version" : 1.13,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -398,7 +398,7 @@
                                   ]
                   },
                   {
-                  "title"       : "High cholesterol, healthy arteries",
+                  "title"       : "High cholesterol, healthy arteries?",
                   "abstract"    : "John had extremely high levels of LDL cholesterol all his life, putting him at increased risk for heart attack or stroke. Much to his physicians’ surprise, his arteries were completely clear of any calcified plaques.",
                   "imageNames"   : ["John"],
                   "imageIsLight": 1,
@@ -421,7 +421,7 @@
                                    "showTopRule"       : 1
                                    },
                                    {
-                                   "text"              : "John’s results weren’t just unusual for someone with familial hypercholesterolemia. His arteries were much clearer than the arteries of most men of his age — even those with normal LDL levels who had low risk of heart disease.\n\nThese startling results imply that something special is happening with John. His body seems to have blocked the buildup of calcified plaques typically linked to high LDL, buffering the risk of a heart attack.\n\nScientists don’t yet know why John’s arteries are so clear. It may have something to do with his healthy habits — he has never smoked, is not overweight and has normal blood pressure. But given that his arteries look clearer than those of other healthy men, it seems like something more is going. Perhaps he is protected by some genetic factor.\n\nThe Resilience Project team aims to find the secret to his resilience. They are collaborating with John in a research study to try to figure out how his body has accomplished this remarkable feat. The answer may one day help a broad group of people by inspiring the development of new treatments for heart attacks and strokes.\n\n*John is an assumed name used here to protect the participant’s identity.",
+                                   "text"              : "John’s results weren’t just unusual for someone with familial hypercholesterolemia. His arteries were much clearer than the arteries of most men of his age — even those with normal LDL levels who had low risk of heart disease.\n\nThese startling results imply that something special is happening with John. His body seems to have blocked the buildup of calcified plaques typically linked to high LDL, potentially buffering the risk of a heart attack. But more research is needed.\n\nScientists don’t yet know why John’s arteries are so clear. It may have something to do with his healthy habits — he has never smoked, is not overweight and has normal blood pressure. But given that his arteries look clearer than those of other healthy men, it seems like something more is going. Perhaps he is protected by some genetic factor.\n\nThe Resilience Project team aims to find the secret to his resilience. They are collaborating with John in a research study to try to figure out how his body has accomplished this remarkable feat. The answer may one day help a broad group of people by inspiring the development of new treatments for heart attacks and strokes.\n\n*John is an assumed name used here to protect the participant’s identity.",
                                    "showTopRule"       : 1
                                    },
                                    {
@@ -465,7 +465,7 @@
                   "moreTitle"   : "Read More",
                   "sections"    : [
                                    {
-                                   "text"              : "Lyme disease is a growing scourge in the Northeast and beyond — rates of the tick-borne illness have tripled over the last 25 years. Today, more than 300,000 people in the United States become infected with the bacterium that causes Lyme each year. The rising rates have brought about an avalanche of research into the disease."
+                                   "text"              : "Lyme disease is a growing scourge in the Northeast and beyond — rates of the tick-borne illness have tripled over the last 25 years. Today, more than 300,000 people in the United States become infected with the bacterium that causes Lyme each year. The rising rates have heightened awareness about the need for more research into the disease."
                                    },
                                    {
                                    "title"             : "Lyme Disease Over Time in the United States",
@@ -473,7 +473,7 @@
                                    "showTopRule"       : 1
                                    },
                                    {
-                                   "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on symptoms, exposure to ticks and a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?\n\nBen Luft, an infectious disease specialist at Stony Brook University, in New York, wants to find out. “We’re not getting a full picture of Lyme disease if we only study people who come into the doctor’s office,” he says.\n\nLuft’s team is studying a group of outdoor workers on Lyme-heavy Long Island. Over the course of the spring and summer of 2017, the researchers found that about 15 percent of the group appeared to be infected, meaning a blood test indicated an immune response to the Lyme bacterium.",
+                                   "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on signs and symptoms, exposure to ticks or a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?\n\nBen Luft, an infectious disease specialist at Stony Brook University, in New York, wants to find out. “We’re not getting a full picture of Lyme disease if we only study people who come into the doctor’s office,” he says.\n\nLuft’s team is studying a group of outdoor workers on Lyme-heavy Long Island. Over the course of the spring and summer of 2017, the researchers found that about 15 percent of the group appeared to be infected, meaning a blood test indicated an immune response to the Lyme bacterium.",
                                    "showTopRule"       : 1
                                    },
                                    {
