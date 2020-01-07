@@ -1,5 +1,5 @@
 {
-    "version" : 1.10,
+    "version" : 1.11,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -50,7 +50,7 @@
 				},
 				{
 					"imageNames": ["tick2", "tick3"],
-					"imageText": "Ticks",
+					"imageText": "Xenodiagnostic test",
 					"imageTextTheme": "dark",
 					"showTopRule": 0
 				},
