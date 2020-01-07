@@ -1,5 +1,5 @@
 {
-    "version" : 1.15,
+    "version" : 1.16,
     "articles" : [
         {
 			"title": "Searching for resistance to tick bites",
@@ -127,7 +127,6 @@
 		    "embeddedTextLinks"  : [
 			    {
 				"linkText": "N1 app",
-				"actionType": "app",
 				"linkUrlString": "https://apps.apple.com/us/app/apple-store/id1308612958"
 				}
 			]
