@@ -1,5 +1,5 @@
 {
-    "version" : 1.19,
+    "version" : 1.20,
     "articles" : [
        		 {
 			"title": "Engineering Immunity",
@@ -12,51 +12,17 @@
 			"moreTitle": "Read More",
 			"sections": [
 				{
-					"text": "When Michelle Barnes visited a bat cave in Uganda on a vacation in 2007, she had no idea the excursion would nearly kill her — and ultimately lead to a potential treatment for a dangerous virus.",
-					"showTopRule": 1
-				},
-				{
-					"text": "Barnes fell violently ill on her return home to Colorado, baffling physicians. She eventually discovered she had a rare and potentially deadly infection called Marburg virus. The virus has a 25 to 90 percent lethality rate, and no medicines are approved specifically to treat it.",
-					"showTopRule": 0
-				},
-				{
-					"text": "When James Crowe, director of the Vanderbilt Vaccine Center, learned about Barnes’ case a year later, he immediately reached out to her — he knew her blood might hold the potential to cure the virus in others. Barnes’ immune system had managed to produce antibodies that were able to overpower the infection. If Crowe could isolate them, he could re-create them in the lab. This is the basis of an approach called passive immunity, in which one person’s immunity is transferred to another in the form of antibodies.",
+					"text": "When Michelle Barnes visited a bat cave in Uganda on a vacation in 2007, she had no idea the excursion would nearly kill her — and ultimately lead to a potential treatment for a dangerous virus.\n\nBarnes fell violently ill on her return home to Colorado, baffling physicians. She eventually discovered she had a rare and potentially deadly infection called Marburg virus. The virus has a 25 to 90 percent lethality rate, and no medicines are approved specifically to treat it.\n\nWhen James Crowe, director of the Vanderbilt Vaccine Center, learned about Barnes’ case a year later, he immediately reached out to her — he knew her blood might hold the potential to cure the virus in others. Barnes’ immune system had managed to produce antibodies that were able to overpower the infection. If Crowe could isolate them, he could re-create them in the lab. This is the basis of an approach called passive immunity, in which one person’s immunity is transferred to another in the form of antibodies.\n\nPassive immunity works differently from the active immunity conferred by vaccines. With the latter, an injection of an inactivated version of the virus sparks the immune system to produce its own antibodies. Treatments based on passive immunity deliver the antibodies themselves, or genetic instructions for making them.\n\nVaccines remain one of the top methods for preventing infectious disease. But they don’t work for all infections, particularly those that mutate rapidly, such as HIV. Passive immunity offers an alternative approach — scientists have discovered that some survivors produce highly powerful antibodies, capable of neutralizing many different strains of HIV, for example.\n\nAntibody-based therapies have traditionally been too expensive to use for most infectious diseases. But technologies for discovering and mass-producing them have drastically improved in the last few years, making the process cheaper and faster. Scientists can now isolate DNA from individual immune cells and rapidly sequence many antibody genes. Whereas they once isolated and tested a handful of antibody candidates from a survivor like Barnes, they can now screen tens of thousands in a single experiment. The more antibodies they screen, the more likely they are to find a powerful one.\n\nAdvances in synthetic genomics, technologies used to manufacture DNA and RNA, make it possible to synthesize thousands of different antibody variants in a matter of weeks. Scientists have also developed ways to modify antibodies, creating longer-lived or more potent versions. \"A single injection with the right antibody might protect you for a year or more,\" Crowe says. \"That’s probably sufficient to deal with any epidemic or pandemic.\"\n\nCrowe is leading a large-scale effort using these technologies to rapidly develop new antibody-based treatments, focusing on the deadly infections that public health officials think are most likely to cause pandemics.\n\nThe first step is to find survivors of these diseases. Scientists are working with groups all over the world to find candidates willing to donate blood. Once researchers isolate protective antibodies, they can mass-produce them in the lab for further testing and eventually treatment. The Marburg treatment based on Barnes’ antibodies, for example, has been licensed by a biotech called Mapp Biopharmaceutical, which developed an antibody-based treatment for Ebola now in clinical trials. Preclinical testing of the Marburg antibody in monkeys was promising, showing that the treatment successfully fought the disease in four out of five animals, days after initial infection.",
 					"showTopRule": 0,
 					"embeddedTextLinks" : [
                                             {
                                                  "linkText": "James Crowe",
                                                  "linkUrlString": "https://www.vumc.org/vvc/person/james-crowe-md"
-                                             }          
-                                         ]
-				},
-				{
-					"text": "Passive immunity works differently from the active immunity conferred by vaccines. With the latter, an injection of an inactivated version of the virus sparks the immune system to produce its own antibodies. Treatments based on passive immunity deliver the antibodies themselves, or genetic instructions for making them.",
-					"showTopRule": 0
-				},
-				{
-					"text": "Vaccines remain one of the top methods for preventing infectious disease. But they don’t work for all infections, particularly those that mutate rapidly, such as HIV. Passive immunity offers an alternative approach — scientists have discovered that some survivors produce highly powerful antibodies, capable of neutralizing many different strains of HIV, for example.",
-					"showTopRule": 0
-				},
-				{
-					"text": "Antibody-based therapies have traditionally been too expensive to use for most infectious diseases. But technologies for discovering and mass-producing them have drastically improved in the last few years, making the process cheaper and faster. Scientists can now isolate DNA from individual immune cells and rapidly sequence many antibody genes. Whereas they once isolated and tested a handful of antibody candidates from a survivor like Barnes, they can now screen tens of thousands in a single experiment. The more antibodies they screen, the more likely they are to find a powerful one.",
-					"showTopRule": 0
-				},
-				{
-					"text": "Advances in synthetic genomics, technologies used to manufacture DNA and RNA, make it possible to synthesize thousands of different antibody variants in a matter of weeks. Scientists have also developed ways to modify antibodies, creating longer-lived or more potent versions. \"A single injection with the right antibody might protect you for a year or more,\" Crowe says. \"That’s probably sufficient to deal with any epidemic or pandemic.\"",
-					"showTopRule": 0
-				},
-				{
-					"text": "Crowe is leading a large-scale effort using these technologies to rapidly develop new antibody-based treatments, focusing on the deadly infections that public health officials think are most likely to cause pandemics.",
-					"showTopRule": 0
-				},
-				{
-					"text": "The first step is to find survivors of these diseases. Scientists are working with groups all over the world to find candidates willing to donate blood. Once researchers isolate protective antibodies, they can mass-produce them in the lab for further testing and eventually treatment. The Marburg treatment based on Barnes’ antibodies, for example, has been licensed by a biotech called Mapp Biopharmaceutical, which developed an antibody-based treatment for Ebola now in clinical trials. Preclinical testing of the Marburg antibody in monkeys was promising, showing that the treatment successfully fought the disease in four out of five animals, days after initial infection.",
-					"showTopRule": 0,
-					"embeddedTextLinks" : [
-                                            {
+                                             },
+                                             {
                                                  "linkText": "Mapp Biopharmaceutical",
                                                  "linkUrlString": "https://mappbio.com/"
-                                             }          
+                                             }           
                                          ]
 				},
 				{
@@ -90,7 +56,6 @@
 					]
 				}
 			]
-			
 		},
 	    	{
 			"title": "Searching for resistance to tick bites",
