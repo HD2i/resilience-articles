@@ -26,6 +26,16 @@
                                          ]
 				},
 				{
+					"text": "Vaccines remain one of the top methods for preventing infectious disease. But they don’t work for all infections, particularly those that mutate rapidly, such as HIV. Passive immunity offers an alternative approach — scientists have discovered that some survivors produce highly powerful antibodies, capable of neutralizing many different strains of HIV, for example.\n\nAntibody-based therapies have traditionally been too expensive to use for most infectious diseases. But technologies for discovering and mass-producing them have drastically improved in the last few years, making the process cheaper and faster. Scientists can now isolate DNA from individual immune cells and rapidly sequence many antibody genes. Whereas they once isolated and tested a handful of antibody candidates from a survivor like Barnes, they can now screen tens of thousands in a single experiment. The more antibodies they screen, the more likely they are to find a powerful one.\n\nAdvances in synthetic genomics, technologies used to manufacture DNA and RNA, make it possible to synthesize thousands of different antibody variants in a matter of weeks. Scientists have also developed ways to modify antibodies, creating longer-lived or more potent versions. \"A single injection with the right antibody might protect you for a year or more,\" Crowe says. \"That’s probably sufficient to deal with any epidemic or pandemic.\"\n\nCrowe is leading a large-scale effort using these technologies to rapidly develop new antibody-based treatments, focusing on the deadly infections that public health officials think are most likely to cause pandemics.\n\nThe first step is to find survivors of these diseases. Scientists are working with groups all over the world to find candidates willing to donate blood. Once researchers isolate protective antibodies, they can mass-produce them in the lab for further testing and eventually treatment. The Marburg treatment based on Barnes’ antibodies, for example, has been licensed by a biotech called Mapp Biopharmaceutical, which developed an antibody-based treatment for Ebola now in clinical trials. Preclinical testing of the Marburg antibody in monkeys was promising, showing that the treatment successfully fought the disease in four out of five animals, days after initial infection.",
+					"showTopRule": 0,
+					"embeddedTextLinks" : [
+                                             {
+                                                 "linkText": "Mapp Biopharmaceutical",
+                                                 "linkUrlString": "https://mappbio.com/"
+                                             }           
+                                         ]
+				},
+				{
 					"buttonTitle": "Tell your story",
 					"actionType": "survey",
 					"actionValue": "Infectious Diseases Questionnaire",
@@ -402,6 +412,29 @@
                                    {
                                    "type"              : "discoveryTimeline",
                                    "title"             : "Discovery Timeline",
+                                   "events"			   : [
+                                   							{
+                                   								"year": "1994",
+                                   								"eventText": "Anna Feurer learns at a company health fair that she has extremely low levels of triglycerides.",
+                                   								"showRule": true
+                                   							},
+                                   							{
+                                   								"year": "2003",
+                                   								"eventText": "Gustav Schonfeld at Washington University in Saint Louis recruits Feurer and her family members to a research study and tries to find the source of their unusual triglyceride profile.",
+                                   								"showRule": true
+                                   							},
+                                   							{
+                                   								"year": "2009",
+                                   								"eventText": "Sekar Kathiresan, a cardiologist at Massachusetts General Hospital, reports that Anna and some of her family members have mutations in both copies of a gene called ANGPTL3, which helps regulate triglyceride metabolism.",
+                                   								"showRule": true
+                                   							},
+                                   							{
+                                   								"year": "2017",
+                                   								"eventText": "Nathan Stitziel, a cardiologist at Washington University in Saint Louis, reports that the Feurer siblings with two mutated copies of the gene have no plaque, an indicator of heart disease. The discovery supports the idea that the mutation might protect against cardiovascular problems. A study of nearly 200,000 people reveals that roughly 1 in 300 people lack a functioning copy of the gene. This group had a 30 percent lower risk of coronary artery disease.",
+                                   								"showRule": false
+                                   							},
+
+                                   						],
                                    "showTopRule"       : 1
                                    },
                                    {
