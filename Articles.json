@@ -26,7 +26,7 @@
                                    "title"             : "Examples of relevant infectious diseases",
                                    "events"			   : [
                                    							{
-                                   								"year": "",
+                                   								"year": " ",
                                    								"eventText": "2019-nCov\nAvian flu (H6, 9, or 10)\nBarmah Forest\nBas Congo\nBat flu (H17, H18)\nHendra\nMERS\nMumps\nNipah\nPowassan\nRabies\nSARS\nTBE\nUsutu\nYellow fever",
                                    								"showRule": true
                                    							}
