@@ -1,5 +1,5 @@
 # Survey Icons
-This is the repository for the survey icons for the Resilience iOS app. The file names of each icon correspond to the action value name in the Articles.json file, with no white spaces. All survey icons should be PNGs and highest quality version of the icon- resizing is done in the app.
+This is the repository for the survey icons for the Resilience iOS app. The file names of each icon correspond to the action value name in the Articles.json file, with no white spaces. These action value names also correspond to the survey identifiers in Bridge. All survey icons should be PNGs and highest quality version of the icon- resizing is done in the app.
 
 **For Example:**
 
