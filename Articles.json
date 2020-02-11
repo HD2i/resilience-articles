@@ -45,7 +45,7 @@
 					"showTopRule": 1
 				},
 				{
-					"text": "Crowe is leading a large-scale effort using these technologies to rapidly develop new antibody-based treatments, focusing on the deadly infections that public health officials think are most likely to cause pandemics.\n\nThe first step is to find survivors of these diseases. Scientists are working with groups all over the world to find candidates willing to donate blood. Once researchers isolate protective antibodies, they can mass-produce them in the lab for further testing and eventually treatment. The Marburg treatment based on Barnes’ antibodies, for example, has been licensed by a biotech called Mapp Biopharmaceutical, which developed an antibody-based treatment for Ebola now in clinical trials. Preclinical testing of the Marburg antibody in monkeys was promising, showing that the treatment successfully fought the disease in four out of five animals, days after initial infection.",
+					"text": "Crowe is leading a large-scale effort using these technologies to rapidly develop new antibody-based treatments, focusing on the deadly infections that public health officials think are most likely to cause pandemics.\n\nThe first step is to find survivors of these diseases. Scientists are working with groups all over the world to find candidates willing to donate blood. Once researchers isolate protective antibodies, they can mass-produce them in the lab for further testing and eventually treatment. The Marburg treatment based on Barnes’ antibodies, for example, has been licensed by a biotech called Mapp Biopharmaceutical, which developed an antibody-based treatment for Ebola now in clinical trials. Preclinical testing of the Marburg antibody in monkeys was promising, showing that the treatment successfully fought the disease in four out of five animals, days after initial infection.\n\nThe Marburg antibody took about two years to develop, but Crowe’s team has already dramatically shortened that timeline for other diseases. Earlier this year, they were able to isolate antibodies from a Zika survivor, develop a treatment, and test it in primates in just 78 days. Rather than delivering the antibodies themselves, the treatment uses sequences of RNA, which give the immune system the instructions for making the antibody. They opted for this approach because synthesizing RNA is cheaper than synthesizing antibodies, and the formula can be quickly changed if the virus mutates. They are now working on launching clinical trials.",
 					"showTopRule": 1,
 					"embeddedTextLinks" : [
                                              {
@@ -53,10 +53,6 @@
                                                  "linkUrlString": "https://mappbio.com/"
                                              }           
                                          ]
-				},
-				{
-					"text": "The Marburg antibody took about two years to develop, but Crowe’s team has already dramatically shortened that timeline for other diseases. Earlier this year, they were able to isolate antibodies from a Zika survivor, develop a treatment, and test it in primates in just 78 days. Rather than delivering the antibodies themselves, the treatment uses sequences of RNA, which give the immune system the instructions for making the antibody. They opted for this approach because synthesizing RNA is cheaper than synthesizing antibodies, and the formula can be quickly changed if the virus mutates. They are now working on launching clinical trials.",
-					"showTopRule": 0
 				},
 				{
 					"type": "references",
