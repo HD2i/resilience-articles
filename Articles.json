@@ -56,7 +56,7 @@
 				},
 				{
 					"text": "The Marburg antibody took about two years to develop, but Crowe’s team has already dramatically shortened that timeline for other diseases. Earlier this year, they were able to isolate antibodies from a Zika survivor, develop a treatment, and test it in primates in just 78 days. Rather than delivering the antibodies themselves, the treatment uses sequences of RNA, which give the immune system the instructions for making the antibody. They opted for this approach because synthesizing RNA is cheaper than synthesizing antibodies, and the formula can be quickly changed if the virus mutates. They are now working on launching clinical trials.",
-					"showTopRule": 1
+					"showTopRule": 0
 				},
 				{
 					"type": "references",
