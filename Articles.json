@@ -41,7 +41,7 @@
 					"title": "Are you an infection survivor?",
 					"buttonTitle": "Tell your story",
 					"actionType": "survey",
-					"actionValue": "Infectious Diseases Questionnaire",
+					"actionValue": "Infectious Survivors Questionnaire",
 					"showTopRule": 1
 				},
 				{
