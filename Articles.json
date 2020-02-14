@@ -1,5 +1,5 @@
 {
-    "version" : 1.24,
+    "version" : 1.25,
     "articles" : [
        		 {
 			"title": "Engineering immunity",
@@ -578,8 +578,8 @@
                                    "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on signs and symptoms, exposure to ticks or a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?",
                                    "showTopRule"       : 1
                                    },
-                                   {
-                                   "title"             : "Do you think you might be resistant to Lyme disease?",
+			 	   {
+                                   "title"             : "Did you have a positive Lyme disease blood test (i.e. \"seropositive\"), you’ve never been treated for Lyme disease, and you have always been without symptoms of Lyme disease?",
                                    "buttonTitle"       : "Take Survey",
                                    "actionType"        : "survey",
                                    "actionValue"       : "Lyme Disease Questionnaire",
@@ -590,7 +590,7 @@
                                    "showTopRule"       : 1
                                    },
 			  	   {
-                                   "title"             : "Did you have a positive Lyme disease blood test (i.e. \"seropositive\"), you’ve never been treated for Lyme disease, and you have always been without symptoms of Lyme disease?",
+                                   "title"             : "Do you think you might be resistant to Lyme disease?",
                                    "buttonTitle"       : "Take Survey",
                                    "actionType"        : "survey",
                                    "actionValue"       : "Lyme Disease Questionnaire",
