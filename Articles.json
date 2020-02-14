@@ -1,5 +1,5 @@
 {
-    "version" : 1.22,
+    "version" : 1.23,
     "articles" : [
        		 {
 			"title": "Engineering immunity",
@@ -575,7 +575,7 @@
                                    "showTopRule"       : 1
                                    },
                                    {
-                                   "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on signs and symptoms, exposure to ticks or a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?\n\nBen Luft, an infectious disease specialist at Stony Brook University, in New York, wants to find out. “We’re not getting a full picture of Lyme disease if we only study people who come into the doctor’s office,” he says.\n\nLuft’s team is studying a group of outdoor workers on Lyme-heavy Long Island. Over the course of the spring and summer of 2017, the researchers found that about 15 percent of the group appeared to be infected, meaning a blood test indicated an immune response to the Lyme bacterium.",
+                                   "text"             : "The classic symptoms of a Lyme infection include a bull’s-eye rash, headache, fever, joint pain and fatigue. The disease is diagnosed based on signs and symptoms, exposure to ticks or a blood test that detects the Borrelia bacterium or its imprint on the immune system.\n\nIn most cases, a course of antibiotics clears the infection. But some people develop a chronic form of Lyme that can persist for years. If left untreated, the infection can cause arthritis and serious neurological and heart problems.\n\nHowever, not everyone who gets bitten by an infected tick develops Lyme disease. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?",
                                    "showTopRule"       : 1
                                    },
                                    {
@@ -585,8 +585,19 @@
                                    "actionValue"       : "Lyme Disease Questionnaire",
                                    "showTopRule"       : 1
                                    },
+			  	   {
+                                   "text"             : "Ben Luft, an infectious disease specialist at Stony Brook University, in New York, wants to find out. “We’re not getting a full picture of Lyme disease if we only study people who come into the doctor’s office,” he says.\n\nLuft’s team is studying a group of outdoor workers on Lyme-heavy Long Island. Over the course of the spring and summer of 2017, the researchers found that about 15 percent of the group appeared to be infected, meaning a blood test indicated an immune response to the Lyme bacterium.\n\nSome people in the infected group went on to develop typical Lyme symptoms, but some did not. The researchers are now looking for genetic and other factors that distinguish these two groups. “Once you start to identify what causes some people to be resistant, you can start to develop new strategies to minimize susceptibility,” Luft says.",
+                                   "showTopRule"       : 1
+                                   },
+			  	   {
+                                   "title"             : "Did you have a positive Lyme disease blood test (i.e. \“seropositive\”), you’ve never been treated for Lyme disease, and you have always been without symptoms of Lyme disease?",
+                                   "buttonTitle"       : "Take Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Lyme Disease Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
                                    {
-                                   "text"             : "Some people in the infected group went on to develop typical Lyme symptoms, but some did not. The researchers are now looking for genetic and other factors that distinguish these two groups. “Once you start to identify what causes some people to be resistant, you can start to develop new strategies to minimize susceptibility,” Luft says.\n\nOther researchers are exploring neighborhood-wide methods to reduce the spread of Lyme and other tick-borne illnesses. The Tick Project, centered in Lyme-heavy Dutchess County, New York, will assess whether two tick control methods deployed in local neighborhoods can reduce local Lyme cases. If successful, this type of approach could help lower the incidence of Lyme at the town or county level.\n\nThe best defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
+                                   "text"             : "\n\nOther researchers are exploring neighborhood-wide methods to reduce the spread of Lyme and other tick-borne illnesses. The Tick Project, centered in Lyme-heavy Dutchess County, New York, will assess whether two tick control methods deployed in local neighborhoods can reduce local Lyme cases. If successful, this type of approach could help lower the incidence of Lyme at the town or county level.\n\nThe best defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
                                    "showTopRule"       : 1
                                    },
                                    {
