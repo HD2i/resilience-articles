@@ -1,5 +1,5 @@
 {
-    "version" : 1.23,
+    "version" : 1.24,
     "articles" : [
        		 {
 			"title": "Engineering immunity",
@@ -590,7 +590,7 @@
                                    "showTopRule"       : 1
                                    },
 			  	   {
-                                   "title"             : "Did you have a positive Lyme disease blood test (i.e. \“seropositive\”), you’ve never been treated for Lyme disease, and you have always been without symptoms of Lyme disease?",
+                                   "title"             : "Did you have a positive Lyme disease blood test (i.e. \"seropositive\"), you’ve never been treated for Lyme disease, and you have always been without symptoms of Lyme disease?",
                                    "buttonTitle"       : "Take Survey",
                                    "actionType"        : "survey",
                                    "actionValue"       : "Lyme Disease Questionnaire",
