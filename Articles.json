@@ -1,6 +1,117 @@
 {
-    "version" : 1.30,
+    "version" : 1.31,
     "articles" : [
+	    {
+                  "title"       : "Coronavirus and COVID-19",
+                  "abstract"    : "In the midst of this rapidly changing global crisis, researchers are racing to understand COVID-19, the respiratory disease caused by the coronavirus SARS-CoV-2.",
+                  "imageNames"   : ["Coronavirus"],
+                  "date"        : "MAR 27, 2020",
+                  "url"         : "https://www.resilienceproject.com/lyme-disease-1",
+                  "storyType"   : "Learn",
+                  "moreTitle"   : "Read More",
+                  "sections"    : [
+                                   {
+                                   "text"              : "Slowing the spread of COVID-19 is of critical importance to public health. Though the infection causes mild symptoms for some people, others experience severe illness. Many people require hospitalization and thousands globally have died [1]. Reports from China and Italy, where large outbreaks have occurred, show that the risk of death climbs markedly with age [2].  Government officials around the world are advising people to practice social distancing and to pause all non-essential activities.\n\nIn the midst of this rapidly changing global crisis, researchers are racing to understand COVID-19, the respiratory disease caused by the coronavirus SARS-CoV-2.\n\nResponding to the crisis poses significant challenges because both the virus and the disease are so new. The first documented case appeared in December 2019, and the virus has been on a global rampage ever since. We do know the virus is very infectious. It can be spread through close contact (within 6 feet) with someone that is infected or potentially by touching a contaminated surface (and then touching your face, for example). Controlling transmission is especially difficult because people may be spreading the virus before they know they are sick--it can take up to two weeks for some to develop symptoms.\n\nOne critical question for researchers aiming to slow the spread of COVID-19 is whether some people are infected with the virus but never develop symptoms. These asymptomatic cases are different from presymptomatic cases, people who have not yet developed symptoms but will.\n\nUnderstanding how rare or common asymptomatic carriers are in a population is critical for stemming the outbreak. If someone knows they are an asymptomatic carrier, they can take extra precautions, self-isolate and minimize exposure with other people. This may be particularly important for parts of the workforce carrying out essential duties on the frontline of the crisis, including healthcare workers, grocery clerks, delivery drivers, and law enforcement.\n\nEvidence for asymptomatic cases is mixed. One early report describing the first cluster of cases in Germany indicated the source of infection was an asymptomatic carrier. Further research revealed the report to be flawed. The individual was experiencing symptoms when she came into contact with others who later fell ill [3]. This demonstrates the challenge of studying symptoms that vary from mild to severe and can take days to manifest.\n\nThe only way to figure out how common asymptomatic carriers are is to widely test people in  the population. This is already happening in Iceland, where the government has offered coronavirus testing to the general population [4]. Preliminary results suggest that about half of those who tested positive for the virus have no symptoms. [5] To determine whether these people are truly asymptomatic or presymptomatic, researchers will need to follow them for two weeks to determine if they develop symptoms.\n\nOne small northern Italian town called Vo tested all 3300 of its inhabitants. About 3 percent were positive. The scientist who led the effort reports that two weeks later, many of those who were asymptomatic remained so, suggesting asymptomatic cases indeed exist [6].In the United States, a new effort is underway track how the virus spreads by testing both healthy and sick people living in Seattle, one of the hardest hit areas in the country [7].",
+                                   "showTopRule"	   : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "new effort",
+                                                          "linkUrlString": "https://scanpublichealth.org/"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                   "title"             : "Are you an asymptomatic carrier of the coronavirus? Or did you test positive and experience only very mild symptoms?",
+                                   "buttonTitle"       : "Take Survey",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "COVID-19 Survey",
+                                   "showTopRule"       : 1
+                                   },
+			  	                         {
+                                   "text"             : "There are other important reasons to connect potential asymptomatic carriers to research. For example, if scientists could identify a biological signature, should one even exist, that predicts who will be an asymptomatic carrier, then they could prioritize repeat testing for this group. Likewise, if researchers could identify a biological signature that predicts who is more likely to become severely ill after infection, then new prevention, testing and treatment strategies could be deployed for these individuals.\n\nAnother important question is whether some people are resistant to infection by the coronavirus all together. In other infectious diseases, studying people who are naturally immune to certain infections has led to important new insights into how viruses invade cells and ultimately inspired new treatments.\n\nIn the 1990s, a New Yorker named Stephen Crohn approached researchers because he believed he was resistant to HIV infection. Crohn was repeatedly exposed to the virus in the 70s and 80s, but he never fell ill. Researchers learned that Crohn carried a mutation in a gene called CCR5 that blocked  HIV infection. It turns out that about 1 percent of caucasians have similar mutations. These discoveries also led to a new FDA approved treatment during a period when few drugs existed. Studying people that resist infection by the coronavirus or never manifest symptoms of COVID-19 may hold clues for new treatments, helping us better defend ourselves against this virus.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "Stephen Crohn",
+                                                          "linkUrlString": "https://scanpublichealth.org/"
+                                                          }
+                                                          ]
+                                   },
+			  	   {
+                                   "title"             : "Do you think you might be resistant to COVID-19, the disease caused by the coronavirus?",
+                                   "buttonTitle"       : "Tell your Story",
+                                   "actionType"        : "survey",
+                                   "actionValue"       : "Infectious Diseases Questionnaire",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "text"             : "Survivors of COVID-19 also have important roles to play in research. During infection, our immune systems generate antibodies that bind to the virus and help clear the infection. Doctors are now testing whether antibodies from survivors’ blood can help people who are severely ill. Identifying individuals with extremely powerful antibodies is also important to vaccine research and antibody-based therapy development.\n\nResearchers are also racing to study the immune response of survivors over time to determine how long immunity to this coronavirus is likely to last. Infection with the virus that causes chickenpox, for example, leads to lifelong immunity for many people. Will the same be true for COVID-19? To answer this question, researchers use “serology” or medical tests that look for antibodies in the blood [8]. Unlike medical tests that look for the virus itself, serological tests cannot tell you whether you have an active infection, only whether you have mounted an immune response following exposure to the virus.",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "extremely powerful antibodies",
+                                                          "linkUrlString": "https://scanpublichealth.org/"
+                                                          },
+                                                          {
+                                                          "linkText": "antibody-based therapy development",
+                                                          "linkUrlString": "https://news.vumc.org/2020/03/23/researchers-developing-potential-coronavirus-antibody-therapies/"
+                                                          }
+                                                          ]
+                                   },
+                                   {
+                                                         "title"             : "Are you a COVID-19 survivor?",
+                                                         "buttonTitle"       : "Tell your Story",
+                                                         "actionType"        : "survey",
+                                                         "actionValue"       : "Infection Survivors Questionnaire",
+                                                         "showTopRule"       : 1
+                                  },
+			  {
+                                   "text"             : "Rapidly acquiring new knowledge about the spectrum of health consequences related to the coronavirus across the population through research, could help spur the development of better prevention strategies, vaccines, or new treatments.",
+                                   "showTopRule"       : 1
+                                   },
+                                   {
+                                   "type"              : "references",
+                                   "title"             : "References",
+                                   "titleAlignment"    : 0,
+                                   "text"              : "[1] https://coronavirus.jhu.edu/map.html\n\n[2] https://jamanetwork.com/journals/jama/fullarticle/2763667\n\n[3] https://www.sciencemag.org/news/2020/02/paper-non-symptomatic-patient-transmitting-coronavirus-wrong\n\n[4] https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/\n\n[5] https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland\n\n[6] https://www.theguardian.com/commentisfree/2020/mar/20/eradicated-coronavirus-mass-testing-covid-19-italy-vo\n\n[7] https://twitter.com/JShendure/status/1242125703132246017\n\n[8] https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1",
+                                   "showTopRule"       : 1,
+                                   "embeddedTextLinks" : [
+                                                          {
+                                                          "linkText": "https://coronavirus.jhu.edu/map.html",
+                                                          "linkUrlString": "https://coronavirus.jhu.edu/map.html"
+                                                          },
+                                                          {
+                                                          "linkText": "https://jamanetwork.com/journals/jama/fullarticle/2763667",
+                                                          "linkUrlString": "https://jamanetwork.com/journals/jama/fullarticle/2763667"
+                                                          },
+                                                          {
+                                                          "linkText": "https://www.sciencemag.org/news/2020/02/paper-non-symptomatic-patient-transmitting-coronavirus-wrong",
+                                                          "linkUrlString": "https://www.sciencemag.org/news/2020/02/paper-non-symptomatic-patient-transmitting-coronavirus-wrong"
+                                                          },
+                                                          {
+                                                          "linkText": "https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/",
+                                                          "linkUrlString": "https://www.government.is/news/article/2020/03/15/Large-scale-testing-of-general-population-in-Iceland-underway/"
+                                                          },
+                                                          {
+                                                          "linkText": "https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland",
+                                                          "linkUrlString": "https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland"
+                                                          },
+                                                          {
+                                                          "linkText": "https://www.theguardian.com/commentisfree/2020/mar/20/eradicated-coronavirus-mass-testing-covid-19-italy-vo",
+                                                          "linkUrlString": "https://www.theguardian.com/commentisfree/2020/mar/20/eradicated-coronavirus-mass-testing-covid-19-italy-vo"
+                                                          },
+                                                          {
+                                                          "linkText": "https://twitter.com/JShendure/status/1242125703132246017",
+                                                          "linkUrlString": "https://twitter.com/JShendure/status/1242125703132246017"
+                                                          },
+                                                          {
+                                                          "linkText": "https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1",
+                                                          "linkUrlString": "https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1"
+                                                          }
+                                                          ]
+                                   }
+                                   ]
+                  },
 	    	 {
                   "title"       : "Searching for resistance to Lyme Disease",
                   "abstract"    : "More than 300,000 people in the United States become infected with the bacterium that causes Lyme disease each year. Some people tested for Lyme show antibodies to the bacterium but never seem to develop symptoms of the infection. What protects these people?",
