@@ -63,7 +63,7 @@
                                                          "title"             : "Are you a COVID-19 survivor?",
                                                          "buttonTitle"       : "Tell your Story",
                                                          "actionType"        : "survey",
-                                                         "actionValue"       : "Infection Survivors Questionnaire",
+                                                         "actionValue"       : "Infectious Survivors Questionnaire",
                                                          "showTopRule"       : 1
                                   },
 			  {
