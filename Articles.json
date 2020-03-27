@@ -5,6 +5,7 @@
                   "title"       : "Coronavirus and COVID-19",
                   "abstract"    : "In the midst of this rapidly changing global crisis, researchers are racing to understand COVID-19, the respiratory disease caused by the coronavirus SARS-CoV-2.",
                   "imageNames"   : ["viruses"],
+		  "imageIsLight": 1,
                   "date"        : "MAR 27, 2020",
                   "url"         : "https://www.resilienceproject.com/lyme-disease-1",
                   "storyType"   : "Learn",
