@@ -1,5 +1,5 @@
 {
-    "version" : 1.39,
+    "version" : 1.40,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -55,7 +55,7 @@
                                                           },
                                                           {
                                                           "linkText": "antibody-based therapy development",
-                                                          "linkUrlString": "https://news.vumc.org/2020/03/23/researchers-developing-potential-coronavirus-antibody-therapies/"
+                                                          "linkUrlString": "hhttps://www.nytimes.com/2020/03/26/health/plasma-coronavirus-treatment.html"
                                                           }
                                                           ]
                                    },
