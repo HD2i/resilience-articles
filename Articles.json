@@ -1,11 +1,11 @@
 {
-    "version" : 1.37,
+    "version" : 1.38,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
                   "abstract"    : "In the midst of this rapidly changing global crisis, researchers are racing to understand COVID-19, the respiratory disease caused by the coronavirus SARS-CoV-2.",
                   "imageNames"   : ["viruses"],
-		  "imageIsLight": 1,
+		  "imageIsLight": 0,
                   "date"        : "MAR 27, 2020",
                   "url"         : "https://www.resilienceproject.com/coronavirus-and-covid-19",
                   "storyType"   : "Learn",
