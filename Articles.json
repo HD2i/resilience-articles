@@ -1,5 +1,5 @@
 {
-    "version" : 1.40,
+    "version" : 1.41,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -55,7 +55,7 @@
                                                           },
                                                           {
                                                           "linkText": "antibody-based therapy development",
-                                                          "linkUrlString": "hhttps://www.nytimes.com/2020/03/26/health/plasma-coronavirus-treatment.html"
+                                                          "linkUrlString": "https://www.nytimes.com/2020/03/26/health/plasma-coronavirus-treatment.html"
                                                           }
                                                           ]
                                    },
