@@ -1,5 +1,5 @@
 {
-    "version" : 1.43,
+    "version" : 1.44,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -168,14 +168,6 @@
                                    "text"             : "\n\nOther researchers are exploring neighborhood-wide methods to reduce the spread of Lyme and other tick-borne illnesses. The Tick Project, centered in Lyme-heavy Dutchess County, New York, will assess whether two tick control methods deployed in local neighborhoods can reduce local Lyme cases. If successful, this type of approach could help lower the incidence of Lyme at the town or county level.",
                                    "showTopRule"       : 1
                                    },
-				   {
-                    		   	"title"              : "Do you have chronic sleep problems as well as Post-treatment Lyme disease (PTLD) or chronic Lyme? We are looking for individuals willing to be interviewed by phone for a research study. We want to hear about your experiences with managing poor sleep and get your feedback on a new research initiative.",
-                    			"titleAlignment"     : 1,
-                    			"buttonTitle"        : "Visit site",
-                    			"actionType"         : "link",
-                    			"actionValue"        : "https://www.n1app.org/cognitivestudy",
-                    			"showTopRule"        : 1
-                		   },
 			  {
                                    "text"             : "The best defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
                                    "showTopRule"       : 1
