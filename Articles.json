@@ -1,5 +1,5 @@
 {
-    "version" : 1.42,
+    "version" : 1.43,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -110,7 +110,19 @@
                                                           "linkUrlString": "https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v1"
                                                           }
                                                           ]
-                                   }
+                                   },
+			  	   {
+					"type": "photoCredit",
+					"title": "Photo Credit",
+					"titleAlignment": 0,
+					"text": "Headlng Illustration-  Deniz Ayaz",
+					"embeddedTextLinks": [
+                                                          {
+                                                          "linkText": "Deniz Ayaz",
+                                                          "linkUrlString": "https://denizayaz.com/"
+                                                          }
+                                                          ]
+				}
                                    ]
                   },
 	    	 {
@@ -357,11 +369,13 @@
 					"type": "photoCredit",
 					"title": "Photo Credit",
 					"titleAlignment": 0,
-					"text": "Heading Illustration- Sadi Tekin\n\nGuinea pig image is courtesy of Erol Fikrig and Yale University.",
-					"embeddedTextLinks": [{
-						"linkText": "Sadi Tekin",
-						"linkUrlString": "https://dribbble.com/saditekin"
-					}]
+					"text": "Headlng Illustration-  Deniz Ayaz\n\nGuinea pig image is courtesy of Erol Fikrig and Yale University.",
+					"embeddedTextLinks": [
+                                                          {
+                                                          "linkText": "Deniz Ayaz",
+                                                          "linkUrlString": "https://denizayaz.com/"
+                                                          }
+                                                          ]
 				}
 
 			]
