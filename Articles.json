@@ -1,5 +1,5 @@
 {
-    "version" : 1.44,
+    "version" : 1.45,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -386,15 +386,7 @@
                     "text"               : "In 1786, Caleb Perry, an English doctor, was trying to figure out what made the most effective laxative — an expensive Turkish rhubarb or the more affordable English varieties. Perry designed a clever experiment in which 13 patients would try each type of rhubarb multiple times.  He reasoned that testing each variety once per person wouldn’t yield enough information to accurately discern the differences, because daily variation in the patient’s diet might influence the results. But averaging the outcomes over several test runs would reduce the influence of these potentially confounding variables.\n\nIn the end, Perry found no benefit to the costly Turkish rhubarb, saving his patients some expense. He had also set the stage for a new approach to testing treatments. He had designed the first known N-of-1 trial, a type of study in which people compare different interventions to see which option works best for them.\n\nMost of us are regularly faced with questions similar to Perry’s. Will melatonin really improve my sleep? Does mindfulness mediation ease stress? Given the variability in mood, diet, work and activity levels that characterizes everyday life, making solid conclusions about what treatments work can be challenging. Someone trying melatonin for sleep might conclude it doesn’t help if she tried it during a stressful period at work. Or perhaps her sleep patterns vary so much night-to-night that no obvious pattern emerges.",
                     "showTopRule"       : 1
                 },
-		    {
-                    "title"              : "Do you have chronic sleep problems as well as Post-treatment Lyme disease (PTLD) or chronic Lyme? We are looking for individuals willing to be interviewed by phone for a research study. We want to hear about your experiences with managing poor sleep and get your feedback on a new research initiative.",
-                    "titleAlignment"     : 1,
-                    "buttonTitle"        : "Visit site",
-                    "actionType"         : "link",
-                    "actionValue"        : "https://www.n1app.org/cognitivestudy",
-                    "showTopRule"        : 1
-                },
-		    {
+		{
                     "text"               : "Over the last several decades, scientists have refined the basic ideas in Perry rhubarb experiment in order to develop more sophisticated methods for comparing the effectiveness of treatments in a single person. More recently, the advent of smartphones and wearable devices have made these experiments both easier and more precise by providing reams of data on our sleep, exercise, and other factors.\n\nNow researchers at the Icahn School of Medicine at Mount Sinai have developed a new app to help people carry out N-of-1 trials in a statistically rigorous way so people are able to  figure out what treatment works best for them, which might be different from what works best for someone else.\n\nThe first study is focused on cognition and helping people figure out the mind-altering impacts of their morning coffee. Does coffee really improve your cognitive function? And what happens when you add to your coffee drinking routine a supplement that some people claim has cognitive enhancing properties?",
                     "showTopRule"       : 1
                 },
