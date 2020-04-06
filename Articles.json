@@ -1,5 +1,5 @@
 {
-    "version" : 1.41,
+    "version" : 1.42,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -372,7 +372,7 @@
             "imageNames"  : ["n1app"],
             "imageIsLight": 1,
             "date"        : "DEC 13, 2019",
-            "url"         : "https://www.resilienceproject.com/",
+            "url"         : "https://www.resilienceproject.com/n1-rp",
             "storyType"   : "Learn",
             "moreTitle"   : "Read More",
             "sections"    : [
