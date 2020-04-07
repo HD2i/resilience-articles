@@ -1,5 +1,5 @@
 {
-    "version" : 1.47,
+    "version" : 1.48,
     "articles" : [
 	    {
                   "title"       : "Coronavirus and COVID-19",
@@ -169,7 +169,7 @@
                                    "showTopRule"       : 1
                                    },
 			  {
-                                   "text"             : "The best defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
+                                   "text"             : "One defense against Lyme disease is a thorough tick check after being outdoors. Experts also recommend wearing long clothing, using insect repellent, and making sure pets are similarly protected and checked for ticks. If you are bitten, remove the tick as soon as possible by pulling it up and out.",
                                    "showTopRule"       : 0
                                    },
                                    {
